@@ -2,7 +2,7 @@
 layout: simple
 ---
 
-# CS584: Deep Learning
+## CS584: Deep Learning
 
 __What is deep learning?__  
 Deep learning is a type of machine learning and an approach to artificial intelligence. By building complex representations of the world in terms of simpler ones, deep learning techniques have achieved state-of-the-art results in computer vision, speech recognition, natural language processing, clinical applications, and other areas &mdash; promising (and threatening) to transform society.
@@ -31,8 +31,8 @@ Office location: <a href="http://emap.fmd.emory.edu/website/campus/index.htm#?qu
 __Teaching assistant__  
 Name: Hejie Cui  
 Email address: <hejie.cui@emory.edu>  
-Office hours: TBA  
-Office location: TBA  
+Office hours: Fridays, 1:00pm&ndash;4:00pm  
+Office location: Mathematics and Science Center E308 (The Computer Lab)  
 
 __Prerequisites__  
 Previous coursework in multivariate, linear algebra, probability theory or statistics, and machine learning (CS534 or equivalent). Proficiency with numerical computing in Python and mathematical typesetting in LaTeX.

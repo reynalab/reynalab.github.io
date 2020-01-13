@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# The Reyna Lab at Emory University
+## The Reyna Lab at Emory University
 
 We are (probably about to be) a research group in the [Department of Biomedical Informatics](https://www.bmi.emory.edu/) and the [Department of Pharmacology and Chemical Biology](https://med.emory.edu/departments/pharmacology-chemical-biology/) at [Emory University](https://www.emory.edu).
 

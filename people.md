@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# People
+## People
 
 ### Matthew Reyna
 

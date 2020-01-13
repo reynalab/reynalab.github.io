@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Publications
+## Publications
 
 This website, much like this research group, is under development.
 
