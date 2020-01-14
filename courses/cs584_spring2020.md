@@ -45,7 +45,7 @@ Students will be evaluated on periodic homework (30% of the course grade, lowest
 __Lectures__  
 This schedule is subject to change, especially as we schedule student presentations.
 1. __Monday, January 13, 2020__  
-  Introduction, linear algebra, probability, numerical computing.
+  Introduction, linear algebra, probability, numerical computing. [Homework 1](cs584_spring2020/hw1.pdf) and [Homework 2](cs584_spring2020/hw2.pdf).
 2. __Wednesday, January 15, 2020__  
   Basics of machine learning.
 3. __Wednesday, January 22, 2020__  
