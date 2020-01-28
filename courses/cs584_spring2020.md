@@ -17,6 +17,7 @@ This webpage provides details for this course, including a schedule. The [course
 
 __Key links, locations, and times__  
 Course syllabus: [here](cs584_spring2020/syllabus.pdf)  
+Paper schedule: [here](cs584_spring2020/papers.pdf)  
 Assignment submissions: [here](https://forms.gle/CPpMb48zKMC6HY5R8)  
 Textbook: [_Deep Learning_](http://www.deeplearningbook.org). Goodfellow, Bengio, and Courville. MIT Press, First Edition  
 Lecture location: <a href="http://emap.fmd.emory.edu/website/campus/index.htm#?queryzoom=Yes&Query=(bldg='1930')">Woodruff Memorial Research Building</a>, 4004  
@@ -35,7 +36,7 @@ Office hours: Fridays, 1:00pm&ndash;4:00pm
 Office location: Mathematics and Science Center E308 (The Computer Lab)  
 
 __Prerequisites__  
-Previous coursework in multivariate, linear algebra, probability theory or statistics, and machine learning (CS534 or equivalent). Proficiency with numerical computing in Python and mathematical typesetting in LaTeX.
+Previous coursework in multivariate calculus, linear algebra, probability theory or statistics, and machine learning (CS534 or equivalent). Proficiency with numerical computing in Python and mathematical typesetting in LaTeX.
 
 __Grading__  
 Students will be evaluated on periodic homework (30% of the course grade, lowest dropped) and quizzes (10%, lowest dropped), presentations and discussions of papers (30%), and a semester project (30%).
@@ -43,7 +44,7 @@ Students will be evaluated on periodic homework (30% of the course grade, lowest
 ---
 
 __Lectures__  
-This schedule is subject to change, especially as we schedule student presentations.
+This schedule is subject to change.
 1. __Monday, January 13, 2020__  
   Introduction, linear algebra, probability, numerical computing. [Homework 1](cs584_spring2020/hw1.pdf) and [Homework 2](cs584_spring2020/hw2.pdf).
 2. __Wednesday, January 15, 2020__  
@@ -51,43 +52,43 @@ This schedule is subject to change, especially as we schedule student presentati
 3. __Wednesday, January 22, 2020__  
   Deep feedforward networks.
 4. __Monday, January 27, 2020__  
-  Regularization.
+  Deep feedforward networks (continued). [Homework 3](cs584_spring2020/hw3.pdf).
 5. __Wednesday, January 29, 2020__  
-  Optimization.
+  Regularization and optimization.
 6. __Monday, February 3, 2020__  
   Convolutional neural networks.
 7. __Wednesday, February 5, 2020__  
   Convolutional neural networks (continued).
 8. __Monday, February 10, 2020__  
-  Recurrent neural networks.
+  Recurrent neural networks. [Paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
 9. __Wednesday, February 12, 2020__  
-  Recurrent neural networks (continued).
+  Recurrent neural networks (continued). [Paper about kernel learning](http://proceedings.mlr.press/v80/belkin18a/belkin18a.pdf).
 10. __Monday, February 17, 2020__  
-  Practical issues and applications.
+  Practical issues and applications. [Paper about Shapley values](http://proceedings.mlr.press/v97/ancona19a/ancona19a.pdf).
 11. __Wednesday, February 19, 2020__  
-  Practical issues and applications (continued).
+  Practical issues and applications (continued). [Paper about ImageNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks).
 12. __Monday, February 24, 2020__  
-  Midterm projects.
+  Midterm projects. [Paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0).
 13. __Wednesday, February 26, 2020__  
-  Midterm projects.
+  Midterm projects. [Paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
 14. __Monday, March 2, 2020__  
-  Markov models.
+  Markov models. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
 15. __Wednesday, March 4, 2020__  
-  Reinforcement learning.
+  Reinforcement learning. [Paper about LSTMs](https://ieeexplore.ieee.org/document/7508408).
 16. __Monday, March 16, 2020__  
-  Reinforcement learning (continued).
+  Reinforcement learning (continued). [Paper about NLPs](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
 17. __Wednesday, March 18, 2020__  
-  Linear factor models.
+  Linear factor models. [Paper about clinical NLPs](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocz200/5651084).
 18. __Monday, March 23, 2020__  
-  Autoencoders.
+  Autoencoders. [Paper about BERT](https://arxiv.org/abs/1810.04805).
 19. __Wednesday, March 25, 2020__  
-  Graphical models.
+  Graphical models. [Paper about DeepBeat](https://arxiv.org/abs/2001.00155).
 20. __Monday, March 30, 2020__  
-  Sampling methods.
+  Sampling methods. [Paper about GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets).
 21. __Wednesday, April 1, 2020__  
-  The partition function.
+  The partition function. [Paper about reinforcement learning](https://www.nature.com/articles/nature14236).
 22. __Monday, April 6, 2020__  
-  Approximate inference.
+  Approximate inference. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
 23. __Wednesday, April 8, 2020__  
   Boltzmann machines.
 24. __Monday, April 13, 2020__  
