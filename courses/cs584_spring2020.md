@@ -22,6 +22,7 @@ Assignment submissions: [here](https://forms.gle/CPpMb48zKMC6HY5R8)
 Textbook: [_Deep Learning_](http://www.deeplearningbook.org). Goodfellow, Bengio, and Courville. MIT Press, First Edition  
 Lecture location: <a href="http://emap.fmd.emory.edu/website/campus/index.htm#?queryzoom=Yes&Query=(bldg='1930')">Woodruff Memorial Research Building</a>, 4004  
 Lecture time: Mondays and Wednesdays, 4:00pm&ndash;5:15pm  
+Lecture slides: [here](https://drive.google.com/drive/folders/1vM4-O59sP8iy_QEZ7Hz7uJP1ZZ-OCjxK). Please use this link to request access.  
 
 __Instructor__  
 Name: [Matthew Reyna](../index.html)  
