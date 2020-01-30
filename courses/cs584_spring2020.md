@@ -22,7 +22,6 @@ Assignment submissions: [here](https://forms.gle/CPpMb48zKMC6HY5R8)
 Textbook: [_Deep Learning_](http://www.deeplearningbook.org). Goodfellow, Bengio, and Courville. MIT Press, First Edition  
 Lecture location: <a href="http://emap.fmd.emory.edu/website/campus/index.htm#?queryzoom=Yes&Query=(bldg='1930')">Woodruff Memorial Research Building</a>, 4004  
 Lecture time: Mondays and Wednesdays, 4:00pm&ndash;5:15pm  
-Lecture slides: [here](https://drive.google.com/drive/folders/1vM4-O59sP8iy_QEZ7Hz7uJP1ZZ-OCjxK). Please use this link to request access.  
 
 __Instructor__  
 Name: [Matthew Reyna](../index.html)  
@@ -47,15 +46,15 @@ Students will be evaluated on periodic homework (30% of the course grade, lowest
 __Lectures__  
 This schedule is subject to change.
 1. __Monday, January 13, 2020__  
-  Introduction, linear algebra, probability, numerical computing. [Homework 1](cs584_spring2020/hw1.pdf) and [Homework 2](cs584_spring2020/hw2.pdf).
+  Introduction, linear algebra, probability, numerical computing. [Slides](https://drive.google.com/file/d/1CZ5NChJdRm3OGo7ho6c-VV8hljbSVYQi), [Homework 1](cs584_spring2020/hw1.pdf), and [Homework 2](cs584_spring2020/hw2.pdf).
 2. __Wednesday, January 15, 2020__  
-  Basics of machine learning.
+  Basics of machine learning. [Slides](https://drive.google.com/file/d/1ffHvFqBSh0Uro1HGhlKjdnEHjMIMPizP).
 3. __Wednesday, January 22, 2020__  
-  Deep feedforward networks.
+  Deep feedforward networks. [Slides](https://drive.google.com/file/d/1VbYs9SrhNWD9FCtMcaQ4UUzJqu-WvdQv).
 4. __Monday, January 27, 2020__  
-  Deep feedforward networks (continued). [Homework 3](cs584_spring2020/hw3.pdf).
+  Deep feedforward networks (continued). [Slides](https://drive.google.com/file/d/1N4kmxfbXDm9nkF0-bqxRG4s724Hp8LOs) and [Homework 3](cs584_spring2020/hw3.pdf).
 5. __Wednesday, January 29, 2020__  
-  Regularization and optimization.
+  Regularization and optimization. [Slides](https://drive.google.com/file/d/1yAWjXzDsGld4vbNZMWrwR25etKIgkukZ).
 6. __Monday, February 3, 2020__  
   Convolutional neural networks.
 7. __Wednesday, February 5, 2020__  
