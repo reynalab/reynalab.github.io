@@ -2,7 +2,8 @@
 layout: simple
 ---
 
-## CS584: Deep Learning
+<title>CS 584: Deep Learning</title>
+## CS 584: Deep Learning
 
 __What is deep learning?__  
 Deep learning is a type of machine learning and an approach to artificial intelligence. By building complex representations of the world in terms of simpler ones, deep learning techniques have achieved state-of-the-art results in computer vision, speech recognition, natural language processing, clinical applications, and other areas &mdash; promising (and threatening) to transform society.

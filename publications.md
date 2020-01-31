@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<title>Reyna Lab: Publications</title>
 ## Publications
 
 This website, much like this research group, is under development.

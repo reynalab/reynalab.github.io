@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<title>Reyna Lab: Teaching</title>
 ## Teaching
 
 - **Spring 2020**: [CS584: Deep Learning](courses/cs584_spring2020.html)

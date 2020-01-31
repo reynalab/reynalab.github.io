@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<title>Reyna Lab: People</title>
 ## People
 
 ### Matthew Reyna
