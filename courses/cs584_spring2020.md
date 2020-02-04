@@ -57,7 +57,7 @@ This schedule is subject to change.
 5. __Wednesday, January 29, 2020__  
   Regularization and optimization. [Slides](https://drive.google.com/file/d/1yAWjXzDsGld4vbNZMWrwR25etKIgkukZ).
 6. __Monday, February 3, 2020__  
-  Convolutional neural networks.
+  Convolutional neural networks. [Slides](https://drive.google.com/file/d/1ycqCks72QlGiYTJUemgEs-LOjBFUarSO).
 7. __Wednesday, February 5, 2020__  
   Convolutional neural networks (continued).
 8. __Monday, February 10, 2020__  
