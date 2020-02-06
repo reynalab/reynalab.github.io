@@ -17,9 +17,9 @@ This webpage provides details for this course, including a schedule. The [course
 ---
 
 __Key links, locations, and times__  
-Course syllabus: [here](cs584_spring2020/syllabus.pdf)  
-Paper schedule: [here](cs584_spring2020/papers.pdf)  
-Assignment submissions: [here](https://forms.gle/CPpMb48zKMC6HY5R8)  
+[Course syllabus](cs584_spring2020/syllabus.pdf)  
+Presentation [schedule](cs584_spring2020/presentation_schedule.pdf) and [rubric](cs584_spring2020/presentation_rubric.pdf)  
+Assignment submissions: [link](https://forms.gle/CPpMb48zKMC6HY5R8)  
 Textbook: [_Deep Learning_](http://www.deeplearningbook.org). Goodfellow, Bengio, and Courville. MIT Press, First Edition  
 Lecture location: <a href="http://emap.fmd.emory.edu/website/campus/index.htm#?queryzoom=Yes&Query=(bldg='1930')">Woodruff Memorial Research Building</a>, 4004  
 Lecture time: Mondays and Wednesdays, 4:00pm&ndash;5:15pm  
@@ -59,7 +59,7 @@ This schedule is subject to change.
 6. __Monday, February 3, 2020__  
   Convolutional neural networks. [Slides](https://drive.google.com/file/d/1ycqCks72QlGiYTJUemgEs-LOjBFUarSO).
 7. __Wednesday, February 5, 2020__  
-  Convolutional neural networks (continued).
+  Convolutional neural networks (continued). [Slides](https://drive.google.com/file/d/1tV2uXzeIv1n4Gse0QS9pm7gbF1XfeCUw).
 8. __Monday, February 10, 2020__  
   Recurrent neural networks. [Paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
 9. __Wednesday, February 12, 2020__  
