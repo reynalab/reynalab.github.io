@@ -63,13 +63,13 @@ This schedule is subject to change.
 8. __Monday, February 10, 2020__  
   Recurrent neural networks. [Paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
 9. __Wednesday, February 12, 2020__  
-  Recurrent neural networks (continued). [Paper about kernel learning](http://proceedings.mlr.press/v80/belkin18a/belkin18a.pdf).
+  Recurrent neural networks (continued). No paper.
 10. __Monday, February 17, 2020__  
   Practical issues and applications. [Paper about Shapley values](http://proceedings.mlr.press/v97/ancona19a/ancona19a.pdf).
 11. __Wednesday, February 19, 2020__  
   Practical issues and applications (continued). [Paper about ImageNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks).
 12. __Monday, February 24, 2020__  
-  Midterm projects. [Paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0).
+  Midterm projects. Two papers: [paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0) and [paper about reinforcement learning.
 13. __Wednesday, February 26, 2020__  
   Midterm projects. [Paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
 14. __Monday, March 2, 2020__  
@@ -87,7 +87,7 @@ This schedule is subject to change.
 20. __Monday, March 30, 2020__  
   Sampling methods. [Paper about GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets).
 21. __Wednesday, April 1, 2020__  
-  The partition function. [Paper about reinforcement learning](https://www.nature.com/articles/nature14236).
+  The partition function. [Paper about reinforcement learning with Atari](https://www.nature.com/articles/nature14236).
 22. __Monday, April 6, 2020__  
   Approximate inference. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
 23. __Wednesday, April 8, 2020__  
