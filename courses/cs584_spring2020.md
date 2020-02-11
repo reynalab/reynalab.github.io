@@ -69,7 +69,7 @@ This schedule is subject to change.
 11. __Wednesday, February 19, 2020__  
   Practical issues and applications (continued). [Paper about ImageNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks).
 12. __Monday, February 24, 2020__  
-  Midterm projects. Two papers: [paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0) and [paper about reinforcement learning.
+  Midterm projects. Two papers: [paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0) and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
 13. __Wednesday, February 26, 2020__  
   Midterm projects. [Paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
 14. __Monday, March 2, 2020__  
