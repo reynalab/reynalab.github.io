@@ -61,7 +61,7 @@ This schedule is subject to change.
 7. __Wednesday, February 5, 2020__  
   Convolutional neural networks (continued). [Slides](https://drive.google.com/file/d/1tV2uXzeIv1n4Gse0QS9pm7gbF1XfeCUw).
 8. __Monday, February 10, 2020__  
-  Recurrent neural networks. [Slides](https://drive.google.com/file/d/1zNZc_DfwjiCPL7-vcb7rCQiKkWRDXf8p). [Homework 4](cs584_spring2020/hw4.pdf) and [Homework 5](cs584_spring2020/hw5.pdf) [Paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
+  Recurrent neural networks. [Slides](https://drive.google.com/file/d/1zNZc_DfwjiCPL7-vcb7rCQiKkWRDXf8p). [Homework 4](cs584_spring2020/hw4.pdf) and [Homework 5](cs584_spring2020/hw5.pdf). [Paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
 9. __Wednesday, February 12, 2020__  
   Recurrent neural networks (continued). No paper.
 10. __Monday, February 17, 2020__  
