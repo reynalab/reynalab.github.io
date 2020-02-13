@@ -61,13 +61,13 @@ This schedule is subject to change.
 7. __Wednesday, February 5, 2020__  
   CNNs (continued). [Slides](https://drive.google.com/file/d/1tV2uXzeIv1n4Gse0QS9pm7gbF1XfeCUw).
 8. __Monday, February 10, 2020__  
-  CNNs and recurrent neural networks (RNNs). [Slides](https://drive.google.com/file/d/1zNZc_DfwjiCPL7-vcb7rCQiKkWRDXf8p), [Homework 4](cs584_spring2020/hw4.pdf), [Homework 5](cs584_spring2020/hw5.pdf), and [paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
+  CNNs (continued) and recurrent neural networks (RNNs). [Slides](https://drive.google.com/file/d/1zNZc_DfwjiCPL7-vcb7rCQiKkWRDXf8p), [Homework 4](cs584_spring2020/hw4.pdf), [Homework 5](cs584_spring2020/hw5.pdf), and [paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
 9. __Wednesday, February 12, 2020__  
   RNNs (continued). [Slides](https://drive.google.com/file/d/1VN6tpoyf8c-hMvRLdHj13QB2x83wW7L8).
 10. __Monday, February 17, 2020__  
   RNNs (continued). [Paper about Pointer networks](https://papers.nips.cc/paper/5866-pointer-networks).
 11. __Wednesday, February 19, 2020__  
-  Sequence-to-sequence. [Paper about ImageNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks).
+  Sequence learning. [Paper about ImageNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks).
 12. __Monday, February 24, 2020__  
   Practicalities, applications, and midterm projects. [Paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0).
 13. __Wednesday, February 26, 2020__  
