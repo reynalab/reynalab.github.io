@@ -57,31 +57,31 @@ This schedule is subject to change.
 5. __Wednesday, January 29, 2020__  
   Regularization and optimization. [Slides](https://drive.google.com/file/d/1yAWjXzDsGld4vbNZMWrwR25etKIgkukZ).
 6. __Monday, February 3, 2020__  
-  Convolutional neural networks. [Slides](https://drive.google.com/file/d/1ycqCks72QlGiYTJUemgEs-LOjBFUarSO).
+  Convolutional neural networks (CNNs). [Slides](https://drive.google.com/file/d/1ycqCks72QlGiYTJUemgEs-LOjBFUarSO).
 7. __Wednesday, February 5, 2020__  
-  Convolutional neural networks (continued). [Slides](https://drive.google.com/file/d/1tV2uXzeIv1n4Gse0QS9pm7gbF1XfeCUw).
+  CNNs (continued). [Slides](https://drive.google.com/file/d/1tV2uXzeIv1n4Gse0QS9pm7gbF1XfeCUw).
 8. __Monday, February 10, 2020__  
-  Recurrent neural networks. [Slides](https://drive.google.com/file/d/1zNZc_DfwjiCPL7-vcb7rCQiKkWRDXf8p). [Homework 4](cs584_spring2020/hw4.pdf) and [Homework 5](cs584_spring2020/hw5.pdf). [Paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
+  CNNs and recurrent neural networks (RNNs). [Slides](https://drive.google.com/file/d/1zNZc_DfwjiCPL7-vcb7rCQiKkWRDXf8p), [Homework 4](cs584_spring2020/hw4.pdf), [Homework 5](cs584_spring2020/hw5.pdf), and [paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
 9. __Wednesday, February 12, 2020__  
-  Recurrent neural networks (continued). No paper.
+  RNNs (continued). [Slides](https://drive.google.com/file/d/1VN6tpoyf8c-hMvRLdHj13QB2x83wW7L8).
 10. __Monday, February 17, 2020__  
-  Practical issues and applications. [Paper about Pointer networks](https://papers.nips.cc/paper/5866-pointer-networks).
+  RNNs (continued). [Paper about Pointer networks](https://papers.nips.cc/paper/5866-pointer-networks).
 11. __Wednesday, February 19, 2020__  
-  Practical issues and applications (continued). [Paper about ImageNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks).
+  Sequence-to-sequence. [Paper about ImageNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks).
 12. __Monday, February 24, 2020__  
-  Midterm projects. Two papers: [paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0) and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
+  Practicalities, applications, and midterm projects. [Paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0).
 13. __Wednesday, February 26, 2020__  
-  Midterm projects. [Paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
+  Markov models. [Paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
 14. __Monday, March 2, 2020__  
-  Markov models. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
+  Reinforcement learning. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
 15. __Wednesday, March 4, 2020__  
-  Reinforcement learning. [Paper about LSTMs](https://ieeexplore.ieee.org/document/7508408).
+  Reinforcement learning (continued). [Paper about LSTMs](https://ieeexplore.ieee.org/document/7508408) and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
 16. __Monday, March 16, 2020__  
-  Reinforcement learning (continued). [Paper about NLPs](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
+  Linear factor models. [Paper about NLP](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
 17. __Wednesday, March 18, 2020__  
-  Linear factor models. [Paper about clinical NLPs](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocz200/5651084).
+  Autoencoders. [Paper about clinical NLP](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocz200/5651084).
 18. __Monday, March 23, 2020__  
-  Autoencoders. [Paper about BERT](https://arxiv.org/abs/1810.04805).
+  Midterm project presentations. [Paper about BERT](https://arxiv.org/abs/1810.04805).
 19. __Wednesday, March 25, 2020__  
   Graphical models. [Paper about DeepBeat](https://arxiv.org/abs/2001.00155).
 20. __Monday, March 30, 2020__  
