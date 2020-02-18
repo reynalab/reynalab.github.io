@@ -47,13 +47,13 @@ Students will be evaluated on periodic homework (30% of the course grade, lowest
 __Lectures__  
 This schedule is subject to change.
 1. __Monday, January 13, 2020__  
-  Introduction, linear algebra, probability, numerical computing. [Slides](https://drive.google.com/file/d/1CZ5NChJdRm3OGo7ho6c-VV8hljbSVYQi), [Homework 1](cs584_spring2020/hw1.pdf), and [Homework 2](cs584_spring2020/hw2.pdf).
+  Introduction, linear algebra, probability, numerical computing. [Slides](https://drive.google.com/file/d/1CZ5NChJdRm3OGo7ho6c-VV8hljbSVYQi), [Homework 1](cs584_spring2020/hw1.pdf) and [solutions](https://drive.google.com/file/d/1PdM8XflRA9YP8mAn15p2tfhCUX4dM6Ff), and [Homework 2](cs584_spring2020/hw2.pdf).
 2. __Wednesday, January 15, 2020__  
   Basics of machine learning. [Slides](https://drive.google.com/file/d/1ffHvFqBSh0Uro1HGhlKjdnEHjMIMPizP).
 3. __Wednesday, January 22, 2020__  
   Deep feedforward networks. [Slides](https://drive.google.com/file/d/1VbYs9SrhNWD9FCtMcaQ4UUzJqu-WvdQv).
 4. __Monday, January 27, 2020__  
-  Deep feedforward networks (continued). [Slides](https://drive.google.com/file/d/1N4kmxfbXDm9nkF0-bqxRG4s724Hp8LOs) and [Homework 3](cs584_spring2020/hw3.pdf).
+  Deep feedforward networks (continued). [Slides](https://drive.google.com/file/d/1N4kmxfbXDm9nkF0-bqxRG4s724Hp8LOs) and [Homework 3](cs584_spring2020/hw3.pdf) and [solutions](https://drive.google.com/file/d/1NaQJrkoMCETUpQtzwlWmxUU2l3k5YU6l).
 5. __Wednesday, January 29, 2020__  
   Regularization and optimization. [Slides](https://drive.google.com/file/d/1yAWjXzDsGld4vbNZMWrwR25etKIgkukZ).
 6. __Monday, February 3, 2020__  
@@ -65,9 +65,9 @@ This schedule is subject to change.
 9. __Wednesday, February 12, 2020__  
   RNNs (continued). [Slides](https://drive.google.com/file/d/1VN6tpoyf8c-hMvRLdHj13QB2x83wW7L8).
 10. __Monday, February 17, 2020__  
-  RNNs (continued). [Paper about Pointer networks](https://papers.nips.cc/paper/5866-pointer-networks).
+  Homework discussion. No slides. [Paper about Pointer networks](https://papers.nips.cc/paper/5866-pointer-networks).
 11. __Wednesday, February 19, 2020__  
-  Sequence learning. [Paper about ImageNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks).
+  RNNs (continued) and sequence learning. [Paper about ImageNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks).
 12. __Monday, February 24, 2020__  
   Practicalities, applications, and midterm projects. [Paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0).
 13. __Wednesday, February 26, 2020__  
