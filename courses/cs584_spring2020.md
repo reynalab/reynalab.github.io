@@ -69,13 +69,13 @@ This schedule is subject to change.
 11. __Wednesday, February 19, 2020__  
   RNNs (continued). [Slides](https://drive.google.com/file/d/1dht--iPMqkoq9H8COz3vXsTRFkpAHaRk) and [paper about ImageNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks).
 12. __Monday, February 24, 2020__  
-  Practicalities, applications, and midterm projects. [Paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0).
+ LSTMs and seq2seq. [Slides](https://drive.google.com/file/d/1IwLVzeL5h4HEQwpiB-_-vJYNGf0pkEDF) and [paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0).
 13. __Wednesday, February 26, 2020__  
-  Markov models. [Paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
+  seq2seq (continued) and projects. [Paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
 14. __Monday, March 2, 2020__  
-  Reinforcement learning. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
+  Markov models. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
 15. __Wednesday, March 4, 2020__  
-  Reinforcement learning (continued). [Paper about LSTMs](https://ieeexplore.ieee.org/document/7508408) and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
+  Reinforcement learning. [Paper about LSTMs](https://ieeexplore.ieee.org/document/7508408) and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
 16. __Monday, March 16, 2020__  
   Linear factor models. [Paper about NLP](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
 17. __Wednesday, March 18, 2020__  
