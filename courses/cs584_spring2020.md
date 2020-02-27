@@ -71,33 +71,33 @@ This schedule is subject to change.
 12. __Monday, February 24, 2020__  
  LSTMs and seq2seq. [Slides](https://drive.google.com/file/d/1IwLVzeL5h4HEQwpiB-_-vJYNGf0pkEDF) and [paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0).
 13. __Wednesday, February 26, 2020__  
-  seq2seq (continued) and projects. [Paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
+  seq2seq (continued) and projects. [Slides](https://drive.google.com/file/d/1LgIS6dTD1GFl9bXFa7Y9zNdg63eNCw9o) and [paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
 14. __Monday, March 2, 2020__  
   Markov models. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
 15. __Wednesday, March 4, 2020__  
-  Reinforcement learning. [Paper about LSTMs](https://ieeexplore.ieee.org/document/7508408) and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
+  Project meetings. [Paper about LSTMs](https://ieeexplore.ieee.org/document/7508408) and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
 16. __Monday, March 16, 2020__  
-  Linear factor models. [Paper about NLP](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
+  Reinforcement learning. [Paper about NLP](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
 17. __Wednesday, March 18, 2020__  
-  Autoencoders. [Paper about clinical NLP](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocz200/5651084).
+  Reinforcement learning (continued). [Paper about clinical NLP](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocz200/5651084).
 18. __Monday, March 23, 2020__  
   Midterm project presentations. [Paper about BERT](https://arxiv.org/abs/1810.04805).
 19. __Wednesday, March 25, 2020__  
-  Graphical models. [Paper about DeepBeat](https://arxiv.org/abs/2001.00155).
+  Linear factor models. [Paper about DeepBeat](https://arxiv.org/abs/2001.00155).
 20. __Monday, March 30, 2020__  
-  Sampling methods. [Paper about GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets).
+  Autoencoders. [Paper about GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets).
 21. __Wednesday, April 1, 2020__  
-  The partition function. [Paper about reinforcement learning with Atari](https://www.nature.com/articles/nature14236).
+  Graphical models. [Paper about reinforcement learning with Atari](https://www.nature.com/articles/nature14236).
 22. __Monday, April 6, 2020__  
-  Approximate inference. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
+  Sampling methods. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
 23. __Wednesday, April 8, 2020__  
-  Boltzmann machines.
+  The partition function. 
 24. __Monday, April 13, 2020__  
-  Boltzmann machines (continued).
+  Approximate inference.
 25. __Wednesday, April 15, 2020__  
-  Project presentations and assorted topics.
+  Boltzmann machines.
 26. __Monday, April 20, 2020__  
-  Project presentations and assorted topics (continued).
+  Project presentations and assorted topics.
 27. __Wednesday, April 22, 2020__  
   Project presentations and assorted topics (continued).
 28. __Monday, April 26, 2020__  
