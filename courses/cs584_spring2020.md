@@ -53,7 +53,7 @@ This schedule is subject to change.
 3. __Wednesday, January 22, 2020__  
   Deep feedforward networks. [Slides](https://drive.google.com/file/d/1VbYs9SrhNWD9FCtMcaQ4UUzJqu-WvdQv).
 4. __Monday, January 27, 2020__  
-  Deep feedforward networks (continued). [Slides](https://drive.google.com/file/d/1N4kmxfbXDm9nkF0-bqxRG4s724Hp8LOs) and [Homework 3](cs584_spring2020/hw3.pdf) and [solutions](https://drive.google.com/file/d/1NaQJrkoMCETUpQtzwlWmxUU2l3k5YU6l).
+  Deep feedforward networks (continued). [Slides](https://drive.google.com/file/d/1N4kmxfbXDm9nkF0-bqxRG4s724Hp8LOs) and [Homework 3](cs584_spring2020/hw3.pdf) and [partial solutions](https://drive.google.com/file/d/1NaQJrkoMCETUpQtzwlWmxUU2l3k5YU6l).
 5. __Wednesday, January 29, 2020__  
   Regularization and optimization. [Slides](https://drive.google.com/file/d/1yAWjXzDsGld4vbNZMWrwR25etKIgkukZ).
 6. __Monday, February 3, 2020__  
@@ -61,7 +61,7 @@ This schedule is subject to change.
 7. __Wednesday, February 5, 2020__  
   CNNs (continued). [Slides](https://drive.google.com/file/d/1tV2uXzeIv1n4Gse0QS9pm7gbF1XfeCUw).
 8. __Monday, February 10, 2020__  
-  CNNs (continued). [Slides](https://drive.google.com/file/d/1zNZc_DfwjiCPL7-vcb7rCQiKkWRDXf8p), [Homework 4](cs584_spring2020/hw4.pdf), [Homework 5](cs584_spring2020/hw5.pdf), and [paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
+  CNNs (continued). [Slides](https://drive.google.com/file/d/1zNZc_DfwjiCPL7-vcb7rCQiKkWRDXf8p), [Homework 4](cs584_spring2020/hw4.pdf) and [partial solutions](https://drive.google.com/file/d/1DFgypXp6fZiV9EmcyadNbMMiqnL4TD5M), [Homework 5](cs584_spring2020/hw5.pdf), and [paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
 9. __Wednesday, February 12, 2020__  
   Guest lecture about RNNs (continued). [Slides](https://drive.google.com/file/d/1VN6tpoyf8c-hMvRLdHj13QB2x83wW7L8).
 10. __Monday, February 17, 2020__  
@@ -73,7 +73,7 @@ This schedule is subject to change.
 13. __Wednesday, February 26, 2020__  
   seq2seq (continued) and projects. [Slides](https://drive.google.com/file/d/1LgIS6dTD1GFl9bXFa7Y9zNdg63eNCw9o) and [paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
 14. __Monday, March 2, 2020__  
-  Markov models. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
+  Project meetings. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
 15. __Wednesday, March 4, 2020__  
   Project meetings. [Paper about LSTMs](https://ieeexplore.ieee.org/document/7508408) and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
 16. __Monday, March 16, 2020__  
@@ -83,7 +83,7 @@ This schedule is subject to change.
 18. __Monday, March 23, 2020__  
   Midterm project presentations. [Paper about BERT](https://arxiv.org/abs/1810.04805).
 19. __Wednesday, March 25, 2020__  
-  Linear factor models. [Paper about DeepBeat](https://arxiv.org/abs/2001.00155).
+  Markov models and linear factor models. [Paper about DeepBeat](https://arxiv.org/abs/2001.00155).
 20. __Monday, March 30, 2020__  
   Autoencoders. [Paper about GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets).
 21. __Wednesday, April 1, 2020__  
