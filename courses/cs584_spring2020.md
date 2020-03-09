@@ -71,11 +71,11 @@ This schedule is subject to change.
 12. __Monday, February 24, 2020__  
  LSTMs and seq2seq. [Slides](https://drive.google.com/file/d/1IwLVzeL5h4HEQwpiB-_-vJYNGf0pkEDF) and [paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0).
 13. __Wednesday, February 26, 2020__  
-  seq2seq (continued) and projects. [Slides](https://drive.google.com/file/d/1LgIS6dTD1GFl9bXFa7Y9zNdg63eNCw9o) and [paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
+  seq2seq (continued). [Slides](https://drive.google.com/file/d/1LgIS6dTD1GFl9bXFa7Y9zNdg63eNCw9o) and [paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
 14. __Monday, March 2, 2020__  
   Project meetings. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
 15. __Wednesday, March 4, 2020__  
-  Project meetings. [Paper about LSTMs](https://ieeexplore.ieee.org/document/7508408) and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
+  Project meetings. [Homework 6](cs584_spring2020/hw6.pdf), [paper about LSTMs](https://ieeexplore.ieee.org/document/7508408), and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
 16. __Monday, March 16, 2020__  
   Reinforcement learning. [Paper about NLP](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
 17. __Wednesday, March 18, 2020__  
