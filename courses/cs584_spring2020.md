@@ -50,59 +50,65 @@ This schedule is subject to change.
   Introduction, linear algebra, probability, numerical computing. [Slides](https://drive.google.com/file/d/1CZ5NChJdRm3OGo7ho6c-VV8hljbSVYQi), [Homework 1](cs584_spring2020/hw1.pdf) and [solutions](https://drive.google.com/file/d/1PdM8XflRA9YP8mAn15p2tfhCUX4dM6Ff), and [Homework 2](cs584_spring2020/hw2.pdf).
 2. __Wednesday, January 15, 2020__  
   Basics of machine learning. [Slides](https://drive.google.com/file/d/1ffHvFqBSh0Uro1HGhlKjdnEHjMIMPizP).
-3. __Wednesday, January 22, 2020__  
+3. __Monday, January 20, 2020__  
+  MLK Holiday. No class.
+4. __Wednesday, January 22, 2020__  
   Deep feedforward networks. [Slides](https://drive.google.com/file/d/1VbYs9SrhNWD9FCtMcaQ4UUzJqu-WvdQv).
-4. __Monday, January 27, 2020__  
+5. __Monday, January 27, 2020__  
   Deep feedforward networks (continued). [Slides](https://drive.google.com/file/d/1N4kmxfbXDm9nkF0-bqxRG4s724Hp8LOs) and [Homework 3](cs584_spring2020/hw3.pdf) and [partial solutions](https://drive.google.com/file/d/1NaQJrkoMCETUpQtzwlWmxUU2l3k5YU6l).
-5. __Wednesday, January 29, 2020__  
+6. __Wednesday, January 29, 2020__  
   Regularization and optimization. [Slides](https://drive.google.com/file/d/1yAWjXzDsGld4vbNZMWrwR25etKIgkukZ).
-6. __Monday, February 3, 2020__  
+7. __Monday, February 3, 2020__  
   Convolutional neural networks (CNNs). [Slides](https://drive.google.com/file/d/1ycqCks72QlGiYTJUemgEs-LOjBFUarSO).
-7. __Wednesday, February 5, 2020__  
+8. __Wednesday, February 5, 2020__  
   CNNs (continued). [Slides](https://drive.google.com/file/d/1tV2uXzeIv1n4Gse0QS9pm7gbF1XfeCUw).
-8. __Monday, February 10, 2020__  
+9. __Monday, February 10, 2020__  
   CNNs (continued). [Slides](https://drive.google.com/file/d/1zNZc_DfwjiCPL7-vcb7rCQiKkWRDXf8p), [Homework 4](cs584_spring2020/hw4.pdf) and [partial solutions](https://drive.google.com/file/d/1DFgypXp6fZiV9EmcyadNbMMiqnL4TD5M), [Homework 5](cs584_spring2020/hw5.pdf), and [paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
-9. __Wednesday, February 12, 2020__  
+10. __Wednesday, February 12, 2020__  
   Guest lecture about RNNs (continued). [Slides](https://drive.google.com/file/d/1VN6tpoyf8c-hMvRLdHj13QB2x83wW7L8).
-10. __Monday, February 17, 2020__  
+11. __Monday, February 17, 2020__  
   Homework discussion. No slides. [Paper about Pointer networks](https://papers.nips.cc/paper/5866-pointer-networks).
-11. __Wednesday, February 19, 2020__  
+12. __Wednesday, February 19, 2020__  
   RNNs (continued). [Slides](https://drive.google.com/file/d/1dht--iPMqkoq9H8COz3vXsTRFkpAHaRk) and [paper about ImageNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks).
-12. __Monday, February 24, 2020__  
+13. __Monday, February 24, 2020__  
  LSTMs and seq2seq. [Slides](https://drive.google.com/file/d/1IwLVzeL5h4HEQwpiB-_-vJYNGf0pkEDF) and [paper about retinal fundus](https://www.nature.com/articles/s41551-018-0195-0).
-13. __Wednesday, February 26, 2020__  
+14. __Wednesday, February 26, 2020__  
   seq2seq (continued). [Slides](https://drive.google.com/file/d/1LgIS6dTD1GFl9bXFa7Y9zNdg63eNCw9o) and [paper about SMILY](https://www.nature.com/articles/s41746-019-0131-z).
-14. __Monday, March 2, 2020__  
+15. __Monday, March 2, 2020__  
   Project meetings. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
-15. __Wednesday, March 4, 2020__  
+16. __Wednesday, March 4, 2020__  
   Project meetings. [Homework 6](cs584_spring2020/hw6.pdf), [paper about LSTMs](https://ieeexplore.ieee.org/document/7508408), and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
-16. __Monday, March 16, 2020__  
-  Reinforcement learning. [Paper about NLP](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
-17. __Wednesday, March 18, 2020__  
-  Reinforcement learning (continued). [Paper about clinical NLP](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocz200/5651084).
-18. __Monday, March 23, 2020__  
-  Midterm project presentations. [Paper about BERT](https://arxiv.org/abs/1810.04805).
-19. __Wednesday, March 25, 2020__  
-  Markov models and linear factor models. [Paper about DeepBeat](https://arxiv.org/abs/2001.00155).
-20. __Monday, March 30, 2020__  
-  Autoencoders. [Paper about GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets).
-21. __Wednesday, April 1, 2020__  
-  Graphical models. [Paper about reinforcement learning with Atari](https://www.nature.com/articles/nature14236).
-22. __Monday, April 6, 2020__  
-  Sampling methods. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
-23. __Wednesday, April 8, 2020__  
-  The partition function. 
-24. __Monday, April 13, 2020__  
-  Approximate inference.
-25. __Wednesday, April 15, 2020__  
-  Boltzmann machines.
-26. __Monday, April 20, 2020__  
-  Project presentations and assorted topics.
-27. __Wednesday, April 22, 2020__  
-  Project presentations and assorted topics (continued).
-28. __Monday, April 26, 2020__  
-  Project presentations and assorted topics (continued).
-   
+17. __Monday, March 9, 2020__  
+  Spring break. No class.
+18. __Wednesday, March 11, 2020__  
+  Spring break. No class.
+19. __Monday, March 16, 2020__  
+  Extended spring break. No class.
+20. __Wednesday, March 18, 2020__  
+  Extended spring break. No class.
+21. __Monday, March 23, 2020__  
+  Attention and reinforcement learning.
+22. __Wednesday, March 25, 2020__
+  Reinforcement learning (continued)
+23. __Monday, March 30, 2020__  
+  Midterm project presentations. [Paper about NLP](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
+24. __Wednesday, April 1, 2020__  
+  Midterm project presentations (continued). [Paper about clinical NLP](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocz200/5651084).
+25. __Monday, April 6, 2020__  
+  Markov models, linear factor models, and graphical models. [Paper about BERT](https://arxiv.org/abs/1810.04805).
+26. __Wednesday, April 8, 2020__  
+  Autoencoders. [Paper about DeepBeat](https://arxiv.org/abs/2001.00155).
+27. __Monday, April 13, 2020__  
+  Sampling methods and the partition function. [Paper about GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets).
+28. __Wednesday, April 15, 2020__  
+  Approximate inference. [Paper about reinforcement learning with Atari](https://www.nature.com/articles/nature14236).
+29. __Monday, April 20, 2020__  
+  Boltzmann machines. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
+30. __Wednesday, April 22, 2020__  
+  Final project presentations.
+31. __Wednesday, April 22, 2020__  
+  Final project presentations (continued).
+  
 ---
 
 [Home](../index.html) &#9632; [People](../people.html) &#9632; [Projects](../projects.html)  &#9632; [Publications](../publications.html)  &#9632; [Teaching](../teaching.html)
