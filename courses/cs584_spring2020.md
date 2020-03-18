@@ -88,7 +88,7 @@ This schedule is subject to change.
   Extended spring break. No class.
 21. __Monday, March 23, 2020__  
   Attention and reinforcement learning.
-22. __Wednesday, March 25, 2020__
+22. __Wednesday, March 25, 2020__  
   Reinforcement learning (continued)
 23. __Monday, March 30, 2020__  
   Midterm project presentations. [Paper about NLP](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
