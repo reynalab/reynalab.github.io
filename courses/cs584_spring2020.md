@@ -89,7 +89,7 @@ This schedule is subject to change.
 21. __Monday, March 23, 2020__  
   Attention and transformers. [Slides](https://drive.google.com/file/d/1_BeRuMc3jZRrDfcdGfHoswT8Okd5MSUA).
 22. __Wednesday, March 25, 2020__  
-  Reinforcement learning.
+  Reinforcement learning. [Slides](https://drive.google.com/file/d/1T8LiMMS9RgircjehTNNXF9sFcAzeI3Vd).
 23. __Monday, March 30, 2020__  
   Midterm project presentations. [Paper about NLP](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
 24. __Wednesday, April 1, 2020__  
