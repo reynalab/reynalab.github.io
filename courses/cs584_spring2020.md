@@ -83,9 +83,9 @@ This schedule is subject to change.
 18. __Wednesday, March 11, 2020__  
   Spring break. No class.
 19. __Monday, March 16, 2020__  
-  Extended spring break. No class.
+  Extended spring break. No class. [Lecture](https://www.youtube.com/watch?v=HGYYEUSm-0Q) from [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow) about generative adversarial networks (GANs).
 20. __Wednesday, March 18, 2020__  
-  Extended spring break. No class.
+  Extended spring break. No class. [Lecture](https://www.youtube.com/watch?v=Z7D-jRMJWHI) from [Nicholoas Carlini](https://nicholas.carlini.com/) about adverarial examples and [quiz](cs584_spring2020/quiz6.pdf).
 21. __Monday, March 23, 2020__  
   Attention and transformers. [Slides](https://drive.google.com/file/d/1_BeRuMc3jZRrDfcdGfHoswT8Okd5MSUA).
 22. __Wednesday, March 25, 2020__  
