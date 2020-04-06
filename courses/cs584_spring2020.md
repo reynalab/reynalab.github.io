@@ -106,7 +106,7 @@ This schedule is subject to change.
   Boltzmann machines. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
 30. __Wednesday, April 22, 2020__  
   Final project presentations.
-31. __Wednesday, April 22, 2020__  
+31. __Monday, April 27, 2020__  
   Final project presentations (continued).
   
 ---
