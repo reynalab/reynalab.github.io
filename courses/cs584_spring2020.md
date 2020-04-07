@@ -91,19 +91,19 @@ This schedule is subject to change.
 22. __Wednesday, March 25, 2020__  
   Reinforcement learning. [Slides](https://drive.google.com/file/d/1T8LiMMS9RgircjehTNNXF9sFcAzeI3Vd).
 23. __Monday, March 30, 2020__  
-  Midterm project presentations. [Paper about NLP](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
+  Midterm project presentations.
 24. __Wednesday, April 1, 2020__  
-  Midterm project presentations (continued). [Paper about clinical NLP](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocz200/5651084).
+  Midterm project presentations (continued).
 25. __Monday, April 6, 2020__  
-  Markov models, linear factor models, and graphical models. [Paper about BERT](https://arxiv.org/abs/1810.04805).
+  Midterm project presentations (continued). [Paper about NLP](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) and  [paper about clinical NLP](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocz200/5651084).
 26. __Wednesday, April 8, 2020__  
-  Autoencoders. [Paper about DeepBeat](https://arxiv.org/abs/2001.00155).
+   Markov models, linear factor models, and graphical models. [Paper about BERT](https://arxiv.org/abs/1810.04805) and [paper about DeepBeat](https://arxiv.org/abs/2001.00155).
 27. __Monday, April 13, 2020__  
-  Sampling methods and the partition function. [Paper about GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets).
+  Autoencoders. [Paper about GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets).
 28. __Wednesday, April 15, 2020__  
-  Approximate inference. [Paper about reinforcement learning with Atari](https://www.nature.com/articles/nature14236).
+  Sampling methods and the partition function. [Paper about reinforcement learning with Atari](https://www.nature.com/articles/nature14236).
 29. __Monday, April 20, 2020__  
-  Boltzmann machines. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
+  Approximate inference and Boltzmann machines. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
 30. __Wednesday, April 22, 2020__  
   Final project presentations.
 31. __Monday, April 27, 2020__  
