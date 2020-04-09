@@ -42,6 +42,8 @@ Previous coursework in multivariate calculus, linear algebra, probability theory
 __Grading__  
 Students will be evaluated on periodic homework (30% of the course grade, lowest dropped) and quizzes (10%, lowest dropped), presentations and discussions of papers (30%), and a semester project (30%).
 
+For the semester projects, each student (or each pair of students) will present a 3-minute "lightning" talk about their project on either Wednesday, April 22 or Monday, April 27 and submit a 4-page paper about their by 4pm on Monday April 27. The talk should effectively highlight the background, goal, achievements, and challenges of the project. (Shorter talks are often harder to prepare than longer ones.) The paper should use the [IEEE conference template in LaTeX](https://www.ieee.org/conferences/publishing/templates.html). Including the title, author list, and abstract (but excluding the references section) the paper should be between 4 and 4.5 pages long. Figures and tables count towards the length of the paper. (Shorter papers are often harder to write than longer ones.) Guidance in homework assignments about projects apply, and the guidance in the template should be helpful. Expectations are higher for projects with two students.)
+
 ---
 
 __Lectures__  
