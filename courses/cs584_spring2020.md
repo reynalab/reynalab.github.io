@@ -104,11 +104,11 @@ This schedule is subject to change.
 26. __Wednesday, April 8, 2020__  
    Markov models, linear factor models, and graphical models. [Slides](https://drive.google.com/file/d/1uHSMsLlD6T5hRbqe9pJ7ALznitrDtnQu) and [paper about BERT](https://arxiv.org/abs/1810.04805).
 27. __Monday, April 13, 2020__  
-  Autoencoders. [Paper about DeepBeat](https://arxiv.org/abs/2001.00155) and [paper about GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets).
+  Homework discussion. No slides. [Paper about DeepBeat](https://arxiv.org/abs/2001.00155) and [paper about GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets).
 28. __Wednesday, April 15, 2020__  
-  Variational autoencoders. [Paper about reinforcement learning with Atari](https://www.nature.com/articles/nature14236).
+  Autoencoders. [Slides](https://drive.google.com/file/d/1K8Ii58CVq6jlSdOlhxQykgNhoWUn5Rw_) and [paper about reinforcement learning with Atari](https://www.nature.com/articles/nature14236).
 29. __Monday, April 20, 2020__  
-  Sampling methods, the partition function, approximate inference, and Boltzmann machines as time allows. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
+  Variational autoencoders. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
 30. __Wednesday, April 22, 2020__  
   Final project presentations.
 31. __Monday, April 27, 2020__  
