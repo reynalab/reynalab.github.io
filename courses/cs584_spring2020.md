@@ -82,7 +82,7 @@ This schedule is subject to change.
 15. __Monday, March 2, 2020__  
   Project meetings. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
 16. __Wednesday, March 4, 2020__  
-  Project meetings. [Homework 6](cs584_spring2020/hw6.pdf), [paper about LSTMs](https://ieeexplore.ieee.org/document/7508408), and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
+  Project meetings. [Homework 6](cs584_spring2020/hw6.pdf) and [partial solutions](https://drive.google.com/file/d/1puaMWaRpDxAWgRAa5sKG73nuYNYBoann), [paper about LSTMs](https://ieeexplore.ieee.org/document/7508408), and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
 17. __Monday, March 9, 2020__  
   Spring break. No class.
 18. __Wednesday, March 11, 2020__  
@@ -108,7 +108,7 @@ This schedule is subject to change.
 28. __Wednesday, April 15, 2020__  
   Autoencoders. [Slides](https://drive.google.com/file/d/1K8Ii58CVq6jlSdOlhxQykgNhoWUn5Rw_) and [paper about reinforcement learning with Atari](https://www.nature.com/articles/nature14236).
 29. __Monday, April 20, 2020__  
-  Variational autoencoders. [Paper about reward modeling](https://arxiv.org/abs/1811.07871).
+  Variational autoencoders. [Slides](https://drive.google.com/file/d/19-3SJHHGBjp92fcADJkqPXRk1Ib9qeC_) and [paper about reward modeling](https://arxiv.org/abs/1811.07871).
 30. __Wednesday, April 22, 2020__  
   Final project presentations.
 31. __Monday, April 27, 2020__  
