@@ -7,9 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML"> </script>
   </head>
   <body>
     <div class="wrapper">
@@ -22,25 +20,15 @@
 
         <p>{{ site.description }}</p>
 
-<!--        {% if site.github.is_project_page %}-->
-<!--        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>-->
-<!--        {% endif %}-->
-
-<!--        {% if site.github.is_user_page %}-->
-<!--        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>-->
-<!--        {% endif %}-->
-
         {% if site.show_links %}
         <ul class="links">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="people.html">People</a></li>
-          <li><a href="projects.html">Projects</a></li>
-          <li><a href="publications.html">Publications</a></li>
-          <li><a href="teaching.html">Teaching</a></li>
+          <li><a href="../">Home</a></li>
+          <li><a href="../people">People</a></li>
+          <li><a href="../projects">Projects</a></li>
+          <li><a href="../publications">Publications</a></li>
+          <li><a href="../teaching">Teaching</a></li>
         </ul>
         {% endif %}
-
-        <small>Hosted on GitHub Pages<br>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
       </header>
       <section>
 
@@ -48,10 +36,6 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <!--<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
