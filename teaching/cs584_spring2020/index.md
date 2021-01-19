@@ -116,4 +116,4 @@ This schedule is subject to change.
   
 ---
 
-[Home](../index.html) &#9632; [People](../people.html) &#9632; [Projects](../projects.html)  &#9632; [Publications](../publications.html)  &#9632; [Teaching](../teaching.html)
+[Home](../../) &#9632; [People](../../people) &#9632; [Projects](../../projects) &#9632; [Publications](../../publications) &#9632; [Teaching](../)
