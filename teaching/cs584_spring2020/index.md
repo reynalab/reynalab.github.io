@@ -12,14 +12,14 @@ __What is this course?__
 This graduate course introduces students to the theory and practice of deep learning. By the end of the course, student should understand fundamental concepts and foundational work in the field, know how to choose between and implement different deep learning models to solve substantive problems, and be able to evaluate and critique work that uses deep learning techniques.
 
 __What is this webpage?__  
-This webpage provides details for this course, including a schedule. The [course syllabus](cs584_spring2020/syllabus.pdf) contains course policies and other information. Announcements during lecture provide other updates.
+This webpage provides details for this course, including a schedule. The [course syllabus](syllabus.pdf) contains course policies and other information. Announcements during lecture provide other updates.
 
 ---
 
 __Key links, locations, and times__  
-[Course syllabus](cs584_spring2020/syllabus.pdf)  
-Paper presentation [schedule](cs584_spring2020/presentation_schedule.pdf) and [rubric](cs584_spring2020/presentation_rubric.pdf)  
-Project [rubric](cs584_spring2020/project_rubric.pdf)  
+[Course syllabus](syllabus.pdf)  
+Paper presentation [schedule](presentation_schedule.pdf) and [rubric](presentation_rubric.pdf)  
+Project [rubric](project_rubric.pdf)  
 Assignment submissions: [link](https://forms.gle/CPpMb48zKMC6HY5R8)  
 Textbook: [_Deep Learning_](http://www.deeplearningbook.org). Goodfellow, Bengio, and Courville. MIT Press, First Edition  
 Lecture location: <a href="http://emap.fmd.emory.edu/website/campus/index.htm#?queryzoom=Yes&Query=(bldg='1930')">Woodruff Memorial Research Building</a>, 4004  
@@ -43,7 +43,7 @@ Previous coursework in multivariate calculus, linear algebra, probability theory
 __Grading__  
 Students will be evaluated on periodic homework (30% of the course grade, lowest dropped) and quizzes (10%, lowest dropped), presentations and discussions of papers (30%), and a semester project (30%).
 
-For the semester projects, each student (or each pair of students) will present a 3-minute "lightning" talk about their project during class on either Wednesday, April 22 or Monday, April 27 and submit a 4-page paper about their by 4:00pm on Monday, April 27. The [project rubric](cs584_spring2020/project_rubric.pdf) describes the expectations for the project presentations and papers. The slides and paper must be submitted on this webpage or by email before __Tuesday, April 28 at 9:00am ET__.
+For the semester projects, each student (or each pair of students) will present a 3-minute "lightning" talk about their project during class on either Wednesday, April 22 or Monday, April 27 and submit a 4-page paper about their by 4:00pm on Monday, April 27. The [project rubric](project_rubric.pdf) describes the expectations for the project presentations and papers. The slides and paper must be submitted on this webpage or by email before __Tuesday, April 28 at 9:00am ET__.
 
 Talks should highlight the background, goals, achievements, and challenges of the project. (Shorter talks are often harder to prepare than longer ones.) Papers should describe the project at greater length and provide adequate details about the methods and results. Papers must use the [IEEE conference template in LaTeX](https://www.ieee.org/conferences/publishing/templates.html) and be between 4 and 4.5 pages long including the title, author list, and abstract but excluding the references. (Shorter papers are often harder to write than longer ones.) Previous guidance from homeworks and paper presentation will be helpful, and questions are welcome. 
 
@@ -52,7 +52,7 @@ Talks should highlight the background, goals, achievements, and challenges of th
 __Lectures__  
 This schedule is subject to change.
 1. __Monday, January 13, 2020__  
-  Introduction, linear algebra, probability, numerical computing. [Slides](https://drive.google.com/file/d/1CZ5NChJdRm3OGo7ho6c-VV8hljbSVYQi), [Homework 1](cs584_spring2020/hw1.pdf) and [solutions](https://drive.google.com/file/d/1PdM8XflRA9YP8mAn15p2tfhCUX4dM6Ff), and [Homework 2](cs584_spring2020/hw2.pdf).
+  Introduction, linear algebra, probability, numerical computing. [Slides](https://drive.google.com/file/d/1CZ5NChJdRm3OGo7ho6c-VV8hljbSVYQi), [Homework 1](hw1.pdf) and [solutions](https://drive.google.com/file/d/1PdM8XflRA9YP8mAn15p2tfhCUX4dM6Ff), and [Homework 2](hw2.pdf).
 2. __Wednesday, January 15, 2020__  
   Basics of machine learning. [Slides](https://drive.google.com/file/d/1ffHvFqBSh0Uro1HGhlKjdnEHjMIMPizP).
 3. __Monday, January 20, 2020__  
@@ -60,7 +60,7 @@ This schedule is subject to change.
 4. __Wednesday, January 22, 2020__  
   Deep feedforward networks. [Slides](https://drive.google.com/file/d/1VbYs9SrhNWD9FCtMcaQ4UUzJqu-WvdQv).
 5. __Monday, January 27, 2020__  
-  Deep feedforward networks (continued). [Slides](https://drive.google.com/file/d/1N4kmxfbXDm9nkF0-bqxRG4s724Hp8LOs) and [Homework 3](cs584_spring2020/hw3.pdf) and [partial solutions](https://drive.google.com/file/d/1NaQJrkoMCETUpQtzwlWmxUU2l3k5YU6l).
+  Deep feedforward networks (continued). [Slides](https://drive.google.com/file/d/1N4kmxfbXDm9nkF0-bqxRG4s724Hp8LOs) and [Homework 3](hw3.pdf) and [partial solutions](https://drive.google.com/file/d/1NaQJrkoMCETUpQtzwlWmxUU2l3k5YU6l).
 6. __Wednesday, January 29, 2020__  
   Regularization and optimization. [Slides](https://drive.google.com/file/d/1yAWjXzDsGld4vbNZMWrwR25etKIgkukZ).
 7. __Monday, February 3, 2020__  
@@ -68,7 +68,7 @@ This schedule is subject to change.
 8. __Wednesday, February 5, 2020__  
   CNNs (continued). [Slides](https://drive.google.com/file/d/1tV2uXzeIv1n4Gse0QS9pm7gbF1XfeCUw).
 9. __Monday, February 10, 2020__  
-  CNNs (continued). [Slides](https://drive.google.com/file/d/1zNZc_DfwjiCPL7-vcb7rCQiKkWRDXf8p), [Homework 4](cs584_spring2020/hw4.pdf) and [partial solutions](https://drive.google.com/file/d/1DFgypXp6fZiV9EmcyadNbMMiqnL4TD5M), [Homework 5](cs584_spring2020/hw5.pdf), and [paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
+  CNNs (continued). [Slides](https://drive.google.com/file/d/1zNZc_DfwjiCPL7-vcb7rCQiKkWRDXf8p), [Homework 4](hw4.pdf) and [partial solutions](https://drive.google.com/file/d/1DFgypXp6fZiV9EmcyadNbMMiqnL4TD5M), [Homework 5](hw5.pdf), and [paper about saddle points](http://proceedings.mlr.press/v40/Ge15.pdf).
 10. __Wednesday, February 12, 2020__  
   Guest lecture about RNNs (continued). [Slides](https://drive.google.com/file/d/1VN6tpoyf8c-hMvRLdHj13QB2x83wW7L8).
 11. __Monday, February 17, 2020__  
@@ -82,7 +82,7 @@ This schedule is subject to change.
 15. __Monday, March 2, 2020__  
   Project meetings. [Paper about focal loss](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf).
 16. __Wednesday, March 4, 2020__  
-  Project meetings. [Homework 6](cs584_spring2020/hw6.pdf) and [partial solutions](https://drive.google.com/file/d/1puaMWaRpDxAWgRAa5sKG73nuYNYBoann), [paper about LSTMs](https://ieeexplore.ieee.org/document/7508408), and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
+  Project meetings. [Homework 6](hw6.pdf) and [partial solutions](https://drive.google.com/file/d/1puaMWaRpDxAWgRAa5sKG73nuYNYBoann), [paper about LSTMs](https://ieeexplore.ieee.org/document/7508408), and [paper about reinforcement learning](https://www.nature.com/articles/nature24270).
 17. __Monday, March 9, 2020__  
   Spring break. No class.
 18. __Wednesday, March 11, 2020__  
@@ -90,7 +90,7 @@ This schedule is subject to change.
 19. __Monday, March 16, 2020__  
   Extended spring break. No class. [Lecture](https://www.youtube.com/watch?v=HGYYEUSm-0Q) from [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow) about generative adversarial networks (GANs).
 20. __Wednesday, March 18, 2020__  
-  Extended spring break. No class. [Lecture](https://www.youtube.com/watch?v=Z7D-jRMJWHI) from [Nicholas Carlini](https://nicholas.carlini.com/) about adversarial examples and a [quiz](cs584_spring2020/quiz6.pdf) ([source file](cs584_spring2020/quiz6.tex)).
+  Extended spring break. No class. [Lecture](https://www.youtube.com/watch?v=Z7D-jRMJWHI) from [Nicholas Carlini](https://nicholas.carlini.com/) about adversarial examples and a [quiz](quiz6.pdf) ([source file](quiz6.tex)).
 21. __Monday, March 23, 2020__  
   Attention and transformers. [Slides](https://drive.google.com/file/d/1_BeRuMc3jZRrDfcdGfHoswT8Okd5MSUA).
 22. __Wednesday, March 25, 2020__  
