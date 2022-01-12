@@ -10,6 +10,11 @@ layout: default
 
 #### 2021 ####
 
+* __M.A. Reyna__, N. Sadr, E.A. Perez Alday, A. Gu, A. Shah, C. Robichaux, A.B. Rab, A. Elola, S. Seyedi, S. Ansari, H. Ghanbari, Q. Li, A. Sharma, G.D. Clifford.
+[Will Two Do? Varying Dimensions in Electrocardiography: The PhysioNet/Computing in Cardiology Challenge]. Computing in Cardiology (CinC) 2021/IEEE. 2021.
+
+*A.I. Wong, R. Kamaleswaran, A. Tabaie,  __M.A. Reyna__, C. Josef, C. Robichaux, A.A.H de Hond, E.W. Steyerberg, A.L. Holder, S. Nemati, T.G. Buchman, J.M. Blum. [Prediction of Acute Respiratory Failure Requiring Advanced Respiratory Support in Advance of Interventions and Treatment: A Multivariable Prediction Model From Electronic Medical Record Data](https://journals.lww.com/ccejournal/Fulltext/2021/05000/Prediction_of_Acute_Respiratory_Failure_Requiring.6.aspx). __Critical Care Explorations__, 3 (5). [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34079945/). 2021.
+
 * __M.A. Reyna__, U. Chitra, R. Elyanow, B.J. Raphael. [NetMix: A network-structured mixture model for reduced-bias estimation of altered subnetworks](https://www.liebertpub.com/doi/abs/10.1089/cmb.2020.0435). Journal of Computational Biology. [PMID: 33400606](https://pubmed.ncbi.nlm.nih.gov/33400606/). 2021.
 
 
@@ -49,4 +54,4 @@ uropean Conference on Computational Biology (ECCB) 2016/Bioinformatics_, 32 (17)
 
 ---
 
-[Home](../) &#9632; [People](../people) &#9632; [Projects](../projects) &#9632; [Publications](../publications) &#9632; [Teaching](../teaching)
+[Home](../) &#9632; [People](../people) &#9632; [Projects](../projects) &#9632; [Publications](../publications) &#9632; [Teaching](../teaching) &#9632; [BMI FAQ](../bmi_faq)

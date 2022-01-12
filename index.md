@@ -12,4 +12,4 @@ This website, much like this research group, is under development.
 
 ---
 
-[Home](../) &#9632; [People](../people) &#9632; [Projects](../projects) &#9632; [Publications](../publications) &#9632; [Teaching](../teaching)
+[Home](../) &#9632; [People](../people) &#9632; [Projects](../projects) &#9632; [Publications](../publications) &#9632; [Teaching](../teaching) &#9632; [BMI FAQ](../bmi_faq)
