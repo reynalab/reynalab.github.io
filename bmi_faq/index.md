@@ -9,7 +9,7 @@ This resource provides quick answers for frequently asked questions (FAQ). Pleas
 2. [Policies](#policies)
 3. [Forms](#forms)
 4. [Thesis and Dissertation](#thesis)
-5. [Questions or concerns? Whom to contact](#questions)
+5. [Questions or concerns?](#questions)
 6. [Abbreviations and Other Terms](#abbreviations)
 
 ## <a name="health"></a>Health and Wellness
@@ -37,13 +37,13 @@ The current Laney Graduate School (LGS) [Handbook](https://gs.emory.edu/_include
 ### Courses
 The CSI PhD Program has three required courses and four elective courses. See the [Handbook](https://www.cs.emory.edu/site/doc/CSI-Handbook.pdf) for these courses.
 
+### Tracks
+There are two tracks in the CSI PhD Program: the BMI track and the CS track. The only difference between these tracks are the options for required and elective courses. You can satisfy either the BMI track or the CS track (or both) regardless of your advisor's home department, but we recommend that you choose courses in consultation with your advisor.
+
 ### Transfer courses, Course Substitutions, and Cross-Enrollment
 You may be able to use courses that you took at other institutions to satisfy some of your course requirements through course transfers or course substitions. You cannot transfer courses that satisfied any degree requirements at another institution, and you cannot transfer more than 9 credit hours of courses, but these limitations do not apply to course substitions. You cannot use course substitions to reach the required number of credit hours, but this is not a problem for PhD students because PhD students take at least 9 credit hours of courses each semester, even when they are "only" doing research.
 
 You can enroll at courses at Georgia Tech and other nearby institutions. You need to complete an [application](https://registrar.emory.edu/registration/cross-registration/emory-students.html) before the deadline. 
-
-### Tracks
-There are two tracks in the CSI PhD Program: the BMI track and the CS track. The only difference between these tracks are the options for required and elective courses. You can satisfy either the BMI track or the CS track (or both) regardless of your advisor's home department, but we recommend that you choose courses in consultation with your advisor.
 
 ### Milestones and Deadlines
 THe CSI PhD Program has several milestones to support the progress of students from admission to graduation. Please see the following summary of key deadlines:
@@ -69,8 +69,8 @@ THe CSI PhD Program has several milestones to support the progress of students f
 All students are expected to be familiar with and abide by the [LGS Honor Code](http://gs.emory.edu/handbook/honor-conduct-grievance/honor/index.html). Your instructors and advisor will have specific expectations. If you are in doubt about their expectations, then please ask them for clarification.
 
 ## <a name="forms"></a>Forms
-- [Mutual advisor commitment form]()
-- [Qualifying exam form]()
+- [Mutual advisor commitment form]() (Not available yet)
+- [Qualifying exam form]() (Not available yet)
 - [Candidacy application form](https://www.gs.emory.edu/academics/policies-progress/candidacy.html)
 - [Dissertation committee](https://www.gs.emory.edu/academics/policies-progress/dissertation.html)
 
@@ -82,7 +82,7 @@ Emory expects you to format your dissertation in a specific way. Pay attention t
 ### Copyright: You likely need permission to include your published work in your thesis.
 When you publish your work, you typically transfer some rights to the publisher of your work, which can make it more difficult to include parts of your work, including your figures, in your thesis. Contrary to popular belief, the material in your thesis is not necessarily protected by the "Fair Use" doctrine. If someone else holds the copyright to your work, then you may need to ask them for permission to include it in your thesis, which can take months to do. If you wait until the last minute to obtain permission, then you may need to remove material from your dissertation and/or delay your graduation. This is not an exaggeration. [This document](https://docs.google.com/document/d/1bTCWefykLvUAs8NMMrbqIIn120jtFkVWPEL78hEmyRU) provides more detailed guidance.
 
-## <a name="questions"></a>Questions or concerns? Whom to contact
+## <a name="questions"></a>Questions or concerns?
 We encourage any struggling student to reach out to their advisor, another trusted faculty member, the DGS or a co-DGS, the Department Chair, the Assistant Dean of Student Affairs in LGS, and/or Student Health Services for support.
 
 For some issues, you may prefer to contact your instructor or advisor. For other issues, you may want to contact one of the department, graduate program, or graduate school administrators. When in doubt, please feel free to ask me as the current Vice Chair for Education and Training for BMI and a co-DGS for the CSI graduate program.
