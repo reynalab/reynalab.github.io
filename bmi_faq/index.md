@@ -46,31 +46,31 @@ You may be able to use courses that you took at other institutions to satisfy so
 You can enroll at courses at Georgia Tech and other nearby institutions. You need to complete an [application](https://registrar.emory.edu/registration/cross-registration/emory-students.html) before the deadline. 
 
 ### Milestones and Deadlines
-THe CSI PhD Program has several milestones to support the progress of students from admission to graduation. Please see the following summary of key deadlines:
+The CSI PhD Program has several milestones to support the timely progress of students from admission to graduation. Please see the following summary of the key deadlines and the [Handbook](https://www.cs.emory.edu/site/doc/CSI-Handbook.pdf) for the details:
 
 - First year
-   - Complete at least one required or elective course by the end of the fall term and at least three such courses by the end of the spring term. Check the [Handbook](https://www.cs.emory.edu/site/doc/CSI-Handbook.pdf) for the requirements for these courses.
-   - Complete at least one rotation by the end of the summer term.
+   - Complete at least one required or elective course by the end of the fall term and at least three required and/or elective courses by the end of the spring term. Check the [Handbook](https://www.cs.emory.edu/site/doc/CSI-Handbook.pdf) for the requirements for these courses.
+   - Complete at least one rotation by the end of the summer term with a grade of B or better.
 - Second year
-   - Complete at least five required or elective courses by the end of the fall term and all seven required and elective courses by the end of the spring term. Check the [Handbook](https://www.cs.emory.edu/site/doc/CSI-Handbook.pdf) for the requirements for these courses.
-   - Complete two rotations by the end of the spring term.
+   - Complete at least five required and/or elective courses by the end of the fall term and all seven required and elective courses by the end of the spring term. Check the [Handbook](https://www.cs.emory.edu/site/doc/CSI-Handbook.pdf) for the requirements for these courses.
+   - Complete two rotations by the end of the spring term with a grade of B or better.
    - Find an advisor by the end of the spring term. Submit your paperwork to the DGS.
 - Third year
-   - Pass your qualifying exam by the end of the spring term. Submit your paperwork to the DGS.
+   - Pass your qualifying exam by the end of the summer term. Submit your paperwork to the DGS.
 - Fourth year
    - Enter candidacy by September 15. Submit your [paperwork](https://www.gs.emory.edu/academics/policies-progress/candidacy.html) to LGS.
    - Form your dissertation committee by March 15. Submit your [paperwork](https://www.gs.emory.edu/academics/policies-progress/dissertation.html) to LGS.
 - Final years
-   - Propose your dissertation at least one semester before you defend your dissertation.
-   - Apply to graduate in the first few weeks of the semester during which you will graduate. Submit your paperwork to LGS.
-   - Submit your dissertation and required paperwork before the deadline, which is before the end of the semester.
+   - Propose your dissertation at least one term before you defend your dissertation.
+   - Apply to graduate in the first few weeks of the term during which you will graduate. Submit  paperwork to LGS.
+   - Submit your dissertation and the required paperwork before the deadline, which is before the end of the term.
 
 ### Academic Integrity
 All students are expected to be familiar with and abide by the [LGS Honor Code](http://gs.emory.edu/handbook/honor-conduct-grievance/honor/index.html). Your instructors and advisor will have specific expectations. If you are in doubt about their expectations, then please ask them for clarification.
 
 ## <a name="forms"></a>Forms
-- [Mutual advisor commitment form]() (Not available yet)
-- [Qualifying exam form]() (Not available yet)
+- [Mutual advisor commitment form](https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=202b7cd1-7f52-48a7-a141-abf9e6e7cbc4&env=na3&acct=327f61f2-c84f-40ec-bc8d-ede26a28ddba&v=2)
+- [Qualifying exam form](csi_qualifying_exam_form.pdf)
 - [Candidacy application form](https://www.gs.emory.edu/academics/policies-progress/candidacy.html)
 - [Dissertation committee](https://www.gs.emory.edu/academics/policies-progress/dissertation.html)
 
