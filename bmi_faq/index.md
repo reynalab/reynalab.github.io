@@ -56,7 +56,7 @@ The CSI PhD Program has several milestones to support the timely progress of stu
    - Complete two rotations by the end of the spring term with a grade of B or better.
    - Find an advisor by the end of the spring term. Submit your paperwork to the DGS.
 - Third year
-   - Pass your qualifying exam by the end of the summer term. Submit your paperwork to the DGS.
+   - Pass your qualifying exam by the end of the summer term. Submit your [paperwork](csi_qualifying_exam_form.pdf) to the DGS.
 - Fourth year
    - Enter candidacy by September 15. Submit your [paperwork](https://www.gs.emory.edu/academics/policies-progress/candidacy.html) to LGS.
    - Form your dissertation committee by March 15. Submit your [paperwork](https://www.gs.emory.edu/academics/policies-progress/dissertation.html) to LGS.
@@ -77,10 +77,10 @@ All students are expected to be familiar with and abide by the [LGS Honor Code](
 ## <a name="thesis"></a>Thesis and Dissertation
 
 ### Dissertation Template
-Emory expects you to format your dissertation in a specific way. Pay attention to the details to avoid a back-and-forth near the deadline: [instructions](https://www.gs.emory.edu/academics/completion/submit/phd-completion.html) and [more instructions](https://www.gs.emory.edu/_includes/documents/submitting-your-thesis-or-dissertation-guidelines-and-template-_word-documents-_-new-dean.docx). You can use the [LaTeX template](https://www.overleaf.com/latex/templates/emory-laney-graduate-school-dissertation-template/hjszzmrwswkv) and [Word template](https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf) for your dissertation.
+Emory expects you to format your dissertation in a specific way. Pay attention to the details to avoid a back-and-forth near the deadline: [instructions](https://www.gs.emory.edu/academics/completion/submit/phd-completion.html) and [more instructions](https://www.gs.emory.edu/_includes/documents/submitting-your-thesis-or-dissertation-guidelines-and-template-_word-documents-_-new-dean.docx). You can use the [LaTeX template](https://www.overleaf.com/latex/templates/emory-laney-graduate-school-dissertation-template/hjszzmrwswkv) and [Word template](https://en.wikibooks.org/wiki/LaTeX) for your dissertation.
 
 ### Copyright: You likely need permission to include your published work in your thesis.
-When you publish your work, you typically transfer some rights to the publisher of your work, which can make it more difficult to include parts of your work, including your figures, in your thesis. Contrary to popular belief, the material in your thesis is not necessarily protected by the "Fair Use" doctrine. If someone else holds the copyright to your work, then you may need to ask them for permission to include it in your thesis, which can take months to do. If you wait until the last minute to obtain permission, then you may need to remove material from your dissertation and/or delay your graduation. This is not an exaggeration. [This document](https://docs.google.com/document/d/1bTCWefykLvUAs8NMMrbqIIn120jtFkVWPEL78hEmyRU) provides more detailed guidance.
+When you publish your work, you typically transfer some rights to the publisher of your work, which can make it more difficult to include parts of your work, including your figures, in your thesis. Contrary to popular belief, the material in your thesis is not necessarily protected by the "Fair Use" doctrine. If someone else holds the copyright to your work, then you may need to ask them for permission to include it in your thesis, which can take months to do. If you wait until the last minute to obtain permission, then you may need to remove material from your dissertation and/or delay your graduation. This is not an exaggeration. This [document](https://docs.google.com/document/d/1bTCWefykLvUAs8NMMrbqIIn120jtFkVWPEL78hEmyRU) provides more detailed guidance.
 
 ## <a name="questions"></a>Questions or concerns?
 We encourage any struggling student to reach out to their advisor, another trusted faculty member, the DGS or a co-DGS, the Department Chair, the Assistant Dean of Student Affairs in LGS, and/or Student Health Services for support.
