@@ -38,13 +38,11 @@ layout: default
 
 #### 2018 ####
 
-* __M.A. Reyna__, M.D.M. Leiserson, B.J. Raphael. [Hierarchical HotNet: identifying hierarchies of altered subnetworks](https://academic.oup.com/bioinformatics/article-abstract/34/17/i972/5093236)
-_European Conference on Computational Biology (ECCB) 2018/Bioinformatics__ 34 (17), i972-i980. [PMID: 30423088](https://pubmed.ncbi.nlm.nih.gov/30423088/). 2018.
+* __M.A. Reyna__, M.D.M. Leiserson, B.J. Raphael. [Hierarchical HotNet: identifying hierarchies of altered subnetworks](https://academic.oup.com/bioinformatics/article-abstract/34/17/i972/5093236) _European Conference on Computational Biology (ECCB) 2018/Bioinformatics_ 34 (17), i972-i980. [PMID: 30423088](https://pubmed.ncbi.nlm.nih.gov/30423088/). 2018.
 
 #### 2016 ####
 
-* M.D.M. Leiserson, __M.A. Reyna__, B.J. Raphael. [A weighted exact test for mutually exclusive mutations in cancer](https://academic.oup.com/bioinformatics/article-abstract/32/17/i736/2450792)
-uropean Conference on Computational Biology (ECCB) 2016/Bioinformatics_, 32 (17), i736-i745. [PMID: 27587696](https://pubmed.ncbi.nlm.nih.gov/27587696/). 2016.
+* M.D.M. Leiserson, __M.A. Reyna__, B.J. Raphael. [A weighted exact test for mutually exclusive mutations in cancer](https://academic.oup.com/bioinformatics/article-abstract/32/17/i736/2450792) _European Conference on Computational Biology (ECCB) 2016/Bioinformatics_, 32 (17), i736-i745. [PMID: 27587696](https://pubmed.ncbi.nlm.nih.gov/27587696/). 2016.
 
 #### 2015 ####
 
