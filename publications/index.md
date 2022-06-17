@@ -4,18 +4,25 @@ layout: default
 
 ## Publications
 
-[Google Scholar](https://scholar.google.com/citations?user=sinbqtcAAAAJ) &#9632; [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=matthew+reyna%5BAuthor%5D) &#9632; [ORCID](https://orcid.org/0000-0003-4688-7965)
+Please see [Google Scholar](https://scholar.google.com/citations?user=sinbqtcAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=matthew+reyna%5BAuthor%5D), [ORCID](https://orcid.org/0000-0003-4688-7965) for more publications, including my most recent publications.
 
-### Selected Publications ###
+### 
+
+### Highlighted Publications ###
+
+#### 2022 ####
+
+* X. Mo, Q. Niu, A.A. Ivanov, Y.H. Tsang, C. Tang, C. Shu, Q. Li, K. Qian, A. Wahafu, S.P. Doyle, D. Cicka, X. Yang, D. Fan, __M.A.__ Reyna, L.A.D. Cooper, C.S. Moreno, W. Zhou, T.K. Owonikoko, S. Lonial, F.R. Khuri, Y. Du, S.S. Ramalingam, G.B. Mills, H. Fu. [Systematic discovery of mutation-directed neo-protein-protein interactions in cancer](https://www.sciencedirect.com/science/article/abs/pii/S0092867422004615). _Cell_, 185 (11) 1974-1985.e12. [PMID: 35512704](https://pubmed.ncbi.nlm.nih.gov/35512704/). 2022.
 
 #### 2021 ####
 
-* __M.A. Reyna__, N. Sadr, E.A. Perez Alday, A. Gu, A. Shah, C. Robichaux, A.B. Rab, A. Elola, S. Seyedi, S. Ansari, H. Ghanbari, Q. Li, A. Sharma, G.D. Clifford.
-[Will Two Do? Varying Dimensions in Electrocardiography: The PhysioNet/Computing in Cardiology Challenge](https://www.cinc.org/archives/2021/pdf/CinC2021-134.pdf). Computing in Cardiology (CinC) 2021/IEEE. 2021.
+* __M.A. Reyna__, N. Sadr, E.A. Perez Alday, A. Gu, A. Shah, C. Robichaux, A.B. Rab, A. Elola, S. Seyedi, S. Ansari, H. Ghanbari, Q. Li, A. Sharma, G.D. Clifford. [Will Two Do? Varying Dimensions in Electrocardiography: The PhysioNet/Computing in Cardiology Challenge](https://www.cinc.org/archives/2021/pdf/CinC2021-134.pdf). Computing in Cardiology (CinC) 2021/IEEE. 2021.
 
-* A.I. Wong, R. Kamaleswaran, A. Tabaie,  __M.A. Reyna__, C. Josef, C. Robichaux, A.A.H de Hond, E.W. Steyerberg, A.L. Holder, S. Nemati, T.G. Buchman, J.M. Blum. [Prediction of Acute Respiratory Failure Requiring Advanced Respiratory Support in Advance of Interventions and Treatment: A Multivariable Prediction Model From Electronic Medical Record Data](https://journals.lww.com/ccejournal/Fulltext/2021/05000/Prediction_of_Acute_Respiratory_Failure_Requiring.6.aspx). __Critical Care Explorations__, 3 (5). [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34079945/). 2021.
+* A.I. Wong, R. Kamaleswaran, A. Tabaie,  __M.A. Reyna__, C. Josef, C. Robichaux, A.A.H de Hond, E.W. Steyerberg, A.L. Holder, S. Nemati, T.G. Buchman, J.M. Blum. [Prediction of Acute Respiratory Failure Requiring Advanced Respiratory Support in Advance of Interventions and Treatment: A Multivariable Prediction Model From Electronic Medical Record Data](https://journals.lww.com/ccejournal/Fulltext/2021/05000/Prediction_of_Acute_Respiratory_Failure_Requiring.6.aspx). _Critical Care Explorations_, 3 (5). [PMID: 34079945](https://www.ncbi.nlm.nih.gov/pubmed/34079945/). 2021.
 
-* __M.A. Reyna__, U. Chitra, R. Elyanow, B.J. Raphael. [NetMix: A network-structured mixture model for reduced-bias estimation of altered subnetworks](https://www.liebertpub.com/doi/abs/10.1089/cmb.2020.0435). Journal of Computational Biology. [PMID: 33400606](https://pubmed.ncbi.nlm.nih.gov/33400606/). 2021.
+* W.C. Hahn _et al._. [An expanded universe of cancer targets](https://www.sciencedirect.com/science/article/pii/S0092867421001707). _Cell_, (184) 5 1142-1155. [PMID: 33667368](https://pubmed.ncbi.nlm.nih.gov/33667368/). 2021.
+
+* __M.A. Reyna__, U. Chitra, R. Elyanow, B.J. Raphael. [NetMix: A network-structured mixture model for reduced-bias estimation of altered subnetworks](https://www.liebertpub.com/doi/abs/10.1089/cmb.2020.0435). _Journal of Computational Biology_. [PMID: 33400606](https://pubmed.ncbi.nlm.nih.gov/33400606/). 2021.
 
 
 #### 2020 ####
