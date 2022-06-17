@@ -18,7 +18,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtc
 
 * A.I. Wong, R. Kamaleswaran, A. Tabaie,  __M.A. Reyna__, C. Josef, C. Robichaux, A.A.H de Hond, E.W. Steyerberg, A.L. Holder, S. Nemati, T.G. Buchman, J.M. Blum. [Prediction of Acute Respiratory Failure Requiring Advanced Respiratory Support in Advance of Interventions and Treatment: A Multivariable Prediction Model From Electronic Medical Record Data](https://journals.lww.com/ccejournal/Fulltext/2021/05000/Prediction_of_Acute_Respiratory_Failure_Requiring.6.aspx). _Critical Care Explorations_, 3 (5). [PMID: 34079945](https://www.ncbi.nlm.nih.gov/pubmed/34079945/). 2021.
 
-* W.C. Hahn _et al._. [An expanded universe of cancer targets](https://www.sciencedirect.com/science/article/pii/S0092867421001707). _Cell_, (184) 5 1142-1155. [PMID: 33667368](https://pubmed.ncbi.nlm.nih.gov/33667368/). 2021.
+* W.C. Hahn _et al._. [An expanded universe of cancer targets](https://www.sciencedirect.com/science/article/pii/S0092867421001707). _Cell_, 184 (5), 1142-1155. [PMID: 33667368](https://pubmed.ncbi.nlm.nih.gov/33667368/). 2021.
 
 * __M.A. Reyna__, U. Chitra, R. Elyanow, B.J. Raphael. [NetMix: A network-structured mixture model for reduced-bias estimation of altered subnetworks](https://www.liebertpub.com/doi/abs/10.1089/cmb.2020.0435). _Journal of Computational Biology_. [PMID: 33400606](https://pubmed.ncbi.nlm.nih.gov/33400606/). 2021.
 
