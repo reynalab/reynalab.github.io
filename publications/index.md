@@ -4,7 +4,7 @@ layout: default
 
 ## Publications
 
-Please see [Google Scholar](https://scholar.google.com/citations?user=sinbqtcAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=matthew+reyna%5BAuthor%5D), and [ORCID](https://orcid.org/0000-0003-4688-7965) pages for more publications, including my most recent publications.
+Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtcAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=matthew+reyna%5BAuthor%5D), and [ORCID](https://orcid.org/0000-0003-4688-7965) pages for more publications, including my most recent work.
 
 ### Highlighted Publications ###
 
