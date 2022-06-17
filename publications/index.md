@@ -4,15 +4,13 @@ layout: default
 
 ## Publications
 
-Please see [Google Scholar](https://scholar.google.com/citations?user=sinbqtcAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=matthew+reyna%5BAuthor%5D), [ORCID](https://orcid.org/0000-0003-4688-7965) for more publications, including my most recent publications.
-
-### 
+Please see [Google Scholar](https://scholar.google.com/citations?user=sinbqtcAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=matthew+reyna%5BAuthor%5D), and [ORCID](https://orcid.org/0000-0003-4688-7965) pages for more publications, including my most recent publications.
 
 ### Highlighted Publications ###
 
 #### 2022 ####
 
-* X. Mo, Q. Niu, A.A. Ivanov, Y.H. Tsang, C. Tang, C. Shu, Q. Li, K. Qian, A. Wahafu, S.P. Doyle, D. Cicka, X. Yang, D. Fan, __M.A.__ Reyna, L.A.D. Cooper, C.S. Moreno, W. Zhou, T.K. Owonikoko, S. Lonial, F.R. Khuri, Y. Du, S.S. Ramalingam, G.B. Mills, H. Fu. [Systematic discovery of mutation-directed neo-protein-protein interactions in cancer](https://www.sciencedirect.com/science/article/abs/pii/S0092867422004615). _Cell_, 185 (11) 1974-1985.e12. [PMID: 35512704](https://pubmed.ncbi.nlm.nih.gov/35512704/). 2022.
+* X. Mo, Q. Niu, A.A. Ivanov, Y.H. Tsang, C. Tang, C. Shu, Q. Li, K. Qian, A. Wahafu, S.P. Doyle, D. Cicka, X. Yang, D. Fan, __M.A. Reyna__, L.A.D. Cooper, C.S. Moreno, W. Zhou, T.K. Owonikoko, S. Lonial, F.R. Khuri, Y. Du, S.S. Ramalingam, G.B. Mills, H. Fu. [Systematic discovery of mutation-directed neo-protein-protein interactions in cancer](https://www.sciencedirect.com/science/article/abs/pii/S0092867422004615). _Cell_, 185 (11) 1974-1985.e12. [PMID: 35512704](https://pubmed.ncbi.nlm.nih.gov/35512704/). 2022.
 
 #### 2021 ####
 
