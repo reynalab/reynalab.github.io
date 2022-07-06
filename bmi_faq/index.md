@@ -4,13 +4,15 @@ layout: simple
 
 # BMI FAQ
 
-This resource provides quick answers for frequently asked questions (FAQ). Please see our websites and the CSI Graduate Program Handbook for details:
+This resource provides quick answers for frequently asked questions (FAQ) for students in the Department of Biomedical Informatics (BMI). Please see our websites and the Computer Science and Informatics (CSI) Graduate Program [Handbook](https://www.cs.emory.edu/site/doc/CSI-Handbook.pdf) for details:
+
 1. [Health and Wellness](#health)
-2. [Policies](#policies)
-3. [Forms](#forms)
-4. [Thesis and Dissertation](#thesis)
-5. [Questions or concerns?](#questions)
-6. [Abbreviations and Other Terms](#abbreviations)
+2. [Courses](#courses)
+3. [Policies](#policies)
+4. [Forms](#forms)
+5. [Thesis and Dissertation](#thesis)
+6. [Questions or concerns?](#questions)
+7. [Abbreviations and Other Terms](#abbreviations)
 
 ## <a name="health"></a>Health and Wellness
 
@@ -27,14 +29,45 @@ Emory University complies with the Americans with Disabilities Act of 1990 and p
 Our goal is to create a safe and inclusive environment. If we mispronounce your name, use an incorrect pronoun, etc., then please correct us. If you do not feel safe, then please inform your instructor, advisor, or another trusted faculty member. Emory faculty are mandatory [Title IX](https://equityandinclusion.emory.edu/title-ix/index.html) reporters, i.e., we are obligated by law to inform the Title IX coordinator at Emory about sexual harassment and misconduct.
 
 ### Support Services
-You are important, and we want you to do well in your courses, in your research, and in life. If you are struggling with emotional, psychological, or other issues that threaten your success, then please contact [Emory’s Counseling and Psychological Services (CAPS)](http://counseling.emory.edu/index.html). CAPS services are free to Emory students. Emory provides a variety of support services, including 24/7-assistance through Student Intervention Services at (404)-430-1120. We understand that life happens outside of the classroom and the lab. If you suffer a tragedy, then please know that you can reach out to us, CAPS, and Student Health Services for help.
+You are important, and we want you to do well in your courses, in your research, and in life. If you are struggling with emotional, psychological, or other issues that threaten your success, then please contact [Emory's Counseling and Psychological Services (CAPS)](http://counseling.emory.edu/index.html). CAPS services are free to Emory students. Emory provides a variety of support services, including 24/7-assistance through Student Intervention Services at (404)-430-1120. We understand that life happens outside of the classroom and the lab. If you suffer a tragedy, then please know that you can reach out to us, CAPS, and Student Health Services for help.
+
+## <a name="courses"></a>Courses
+
+BMI faculty offer a variety of courses, and BMI students enroll in a variety of courses from BMI faculty, other CSI faculty, and other university faculty.
+
+- __BMI 500: Introduction to Ethical Data Science and Informatics__ (3 credit hours)
+This course covers the basics of data science techniques needed for informatics, with a strong focus on ethics, equity, standards, and security.
+- __BMI 510: Biostatistics for Machine Learning__ (4 credit hours)
+Introduction to the description and analysis of clinical data, including fundamental results in statistical inference and probability.
+- __BMI 520: Practical Computing for Informatics__ (3 credit hours)
+Introduction to computational skills for effectively conducting informatics research, including relevant programming languages, data formats, and computing techniques.
+- __BMI 532: Model-Based Machine Learning__ (3 credit hours)
+Mathematical modeling for biomedical machine learning applications, including model design, identifiability, assessment and selection.
+- __BMI 534: Introduction to Machine Learning__ (3 credit hours)
+Fundamental machine learning theory and techniques. Often cross-listed as CS 534 and/or BIOS 534.
+- __BMI 536: Introduction to Deep Learning__ (3 credit hours)
+Fundamental deep learning theory and techniques.
+- __BMI 539: Topics in Machine Learning__ (3 credit hours)
+Topics in machine learning, depending on faculty and student interest.
+- __BMI 540: Time Series Analysis and Modeling__ (3 credit hours)
+Introduction to concepts and methodologies in time-series analysis and modeling, including univariate and multivariate time series and linear and nonlinear techniques.
+- __BMI 550: Applied Biomedical Natural Language__ (3 credit hours)
+End-to-end natural language processing applications for biomedical texts.
+- __BMI 555: Computational Methods for Biomedical Image Analysis__ (3 credit hours)
+Biomedical image analysis, including reading, processing, analyzing, and using images for scientific discovery and biomedical applications.
+- __BMI 562: Cancer Single Cell Analytics__ (3 credit hours)
+Introduction to analytical techniques for single-cell RNA-sequencing data in cancer, including experimental protocols, data processing, computational analyses.
+- __BMI 585: Topics in Biomedical Informatics__ (Various credit hours)
+This is a special topics course in Biomedical Informatics.
+
+BMI students often take [CS courses](https://www.cs.emory.edu/courses/), [BIOS courses](https://www.sph.emory.edu/academics/courses/bios-courses/), and [MATH courses](https://www.math.emory.edu/courses/) as well as [courses](https://atlas.emory.edu/) from other departments and programs at Emory and nearby institutions.
 
 ## <a name="policies"></a>Policies
 
 ### Handbooks
 The current Laney Graduate School (LGS) [Handbook](https://gs.emory.edu/_includes/documents/sections/handbook/handbook.pdf) describes the policies of the graduate school, and the current Computer Science and Informatics (CSI) Graduate Program [Handbook](https://www.cs.emory.edu/site/doc/CSI-Handbook.pdf) describes the policies of the graduate program. We recommend that you read both (at least) once at the beginning of the program.
 
-### Courses
+### Course Requirements
 The CSI PhD Program has three required courses and four elective courses. See the [Handbook](https://www.cs.emory.edu/site/doc/CSI-Handbook.pdf) for these courses.
 
 ### Tracks
@@ -88,16 +121,18 @@ We encourage any struggling student to reach out to their advisor, another trust
 For some issues, you may prefer to contact your instructor or advisor. For other issues, you may want to contact one of the department, graduate program, or graduate school administrators. When in doubt, please feel free to ask me as the current Vice Chair for Education and Training for BMI and a co-DGS for the CSI graduate program.
 
 ## <a name="abbreviations"></a>Abbreviations and Other Terms
+
 - ADA: Americans with Disabilities Act
 - BIOS: Biostatistics and Bioinformatics (department and graduate program)
 - BMI: Biomedical Informatics (department)
 - CAPS: Counseling and Psychological Services
 - CS: Computer Science (department)
 - CSI: Computer Science and Informatics (graduate program)
-- DAS: Department of Accessibility Services
- - DGS: Director of Graduate Students
+- DAS: Department of Accessibility Services (formerly Office of Accessibility Services)
+- DGS: Director of Graduate Studies
 - FAQ: Frequently asked questions
 - LGS: Laney Graduate School, i.e., the graduate school at Emory
+- MATH: Math, but with all capital letters (department and graduate program)
 - Title IX: a US civil rights law that prohibits sex-based discrimination in education
 
 ---
