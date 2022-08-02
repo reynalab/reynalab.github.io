@@ -34,7 +34,7 @@ You are important, and we want you to do well in your courses, in your research,
 ## Academic Integrity
 You are expected to uphold and cooperate in maintaining academic integrity as a member of the Laney Graduate School. By taking this course, you affirm your commitment to the [Laney Graduate School Honor Code](http://gs.emory.edu/handbook/honor-conduct-grievance/honor/index.html), which you can find in the [Laney Graduate School Handbook](https://gs.emory.edu/_includes/documents/sections/handbook/handbook.pdf). You should ensure that you are familiar with the rights and responsibilities of members of our academic community and with policies that apply to students as members of our academic community. Any individual, when they suspect that an offense of academic misconduct has occurred, shall report this suspected breach to the appropriate Director of Graduate Studies, Program Director, or Dean of the Laney Graduate School. If an allegation is reported to a Director of Graduate Studies or a Program Director, they are in turn required to report the allegation to the Dean of Laney Graduate School.
 
-Your instructors and advisor likely have specific expectations for academic activity. If you are in doubt, then please ask before potentially violating these expectations.
+Your instructors and advisor likely have specific expectations for academic integrity. If you are in doubt, then please ask before potentially violating these expectations.
 
 ## <a name="courses"></a>Courses
 
