@@ -10,6 +10,15 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtc
 
 #### 2022 ####
 
+* E.A.P. Alday, A.B. Rad, __M.A. Reyna__, N. Sadr, A. Gu, Q. Li, M. Dumitru, J. Xue, D. Albert, R. Sameni, G.D. Clifford. [Age, sex and race bias in automated arrhythmia detectors](https://www.sciencedirect.com/science/article/abs/pii/S0022073622000942). _Journal of Electrocardiology_, 74 5-9. [PMID: 35878534](https://pubmed.ncbi.nlm.nih.gov/35878534/).	2022
+
+* __M.A. Reyna__, N. Sadr, E.A.P. Alday, A. Gu, A.J. Shah, C. Robichaux, A.B. Rad, A. Elola, S. Seyedi, S. Ansari, H. Ghanbari, Q. Li, A. Sharma, G.D. Clifford. [Issues in the automated classification of multilead ECGs using heterogeneous labels and populations](https://iopscience.iop.org/article/10.1088/1361-6579/ac79fd/meta). _Physiological Measurement_, 43 (8), 084001. [PMID: 35815673](https://pubmed.ncbi.nlm.nih.gov/35815673/). 2022.
+
+* __M.A Reyna__, E.O. Nsoesie, G.D. Clifford. [Rethinking algorithm performance metrics for artificial intelligence in diagnostic medicine](https://jamanetwork.com/journals/jama/article-abstract/2794258). _JAMA_, 328 (4) 329-330. [PMID: 35802382](https://pubmed.ncbi.nlm.nih.gov/35802382/). 2022.
+
+* M. Rohr, C. Reich, A. Höhl, T. Lilienthal, T. Dege, F. Plesinger, V. Bulkova, G.D. Clifford, __M.A. Reyna__, C.H. Antink.
+[Exploring novel algorithms for atrial fibrillation detection by driving graduate level education in medical machine learning](https://iopscience.iop.org/article/10.1088/1361-6579/ac7840/meta). _Physiological Measurement_, 43 (7) 074001. 2022.
+
 * X. Mo, Q. Niu, A.A. Ivanov, Y.H. Tsang, C. Tang, C. Shu, Q. Li, K. Qian, A. Wahafu, S.P. Doyle, D. Cicka, X. Yang, D. Fan, __M.A. Reyna__, L.A.D. Cooper, C.S. Moreno, W. Zhou, T.K. Owonikoko, S. Lonial, F.R. Khuri, Y. Du, S.S. Ramalingam, G.B. Mills, H. Fu. [Systematic discovery of mutation-directed neo-protein-protein interactions in cancer](https://www.sciencedirect.com/science/article/abs/pii/S0092867422004615). _Cell_, 185 (11) 1974-1985.e12. [PMID: 35512704](https://pubmed.ncbi.nlm.nih.gov/35512704/). 2022.
 
 #### 2021 ####
