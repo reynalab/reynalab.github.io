@@ -10,7 +10,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtc
 
 #### 2022 ####
 
-* E.A.P. Alday, A.B. Rad, __M.A. Reyna__, N. Sadr, A. Gu, Q. Li, M. Dumitru, J. Xue, D. Albert, R. Sameni, G.D. Clifford. [Age, sex and race bias in automated arrhythmia detectors](https://www.sciencedirect.com/science/article/abs/pii/S0022073622000942). _Journal of Electrocardiology_, 74 5-9. [PMID: 35878534](https://pubmed.ncbi.nlm.nih.gov/35878534/).	2022
+* E.A.P. Alday, A.B. Rad, __M.A. Reyna__, N. Sadr, A. Gu, Q. Li, M. Dumitru, J. Xue, D. Albert, R. Sameni, G.D. Clifford. [Age, sex and race bias in automated arrhythmia detectors](https://www.sciencedirect.com/science/article/abs/pii/S0022073622000942). _Journal of Electrocardiology_, 74 5-9. [PMID: 35878534](https://pubmed.ncbi.nlm.nih.gov/35878534/). 2022.
 
 * __M.A. Reyna__, N. Sadr, E.A.P. Alday, A. Gu, A.J. Shah, C. Robichaux, A.B. Rad, A. Elola, S. Seyedi, S. Ansari, H. Ghanbari, Q. Li, A. Sharma, G.D. Clifford. [Issues in the automated classification of multilead ECGs using heterogeneous labels and populations](https://iopscience.iop.org/article/10.1088/1361-6579/ac79fd/meta). _Physiological Measurement_, 43 (8), 084001. [PMID: 35815673](https://pubmed.ncbi.nlm.nih.gov/35815673/). 2022.
 
