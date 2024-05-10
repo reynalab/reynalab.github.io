@@ -8,61 +8,97 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtc
 
 ### Highlighted Publications ###
 
+#### 2024 ####
+
+* Brockett JS, Manalo T, Zein-Sabatto H, Lee J, Fang J, Chu P, Feng H, Patil D, Davidson P, Ogan K, Master VA, Pattaras JG, Roberts DL, Bergquist SH, __Reyna MA__, Petros JA, Lerit DA, Arnold RS. "[A missense SNP in the tumor suppressor SETD2 reduces H3K36me3 and mitotic spindle integrity in Drosophila](https://academic.oup.com/genetics/article/226/4/iyae015/7593483)." _Genetics_. 2024 Apr 3;226(4): iyae015. [doi: 10.1093/genetics/iyae015](https://doi.org/10.1093/genetics/iyae015). [PMID: 38290049](https://pubmed.ncbi.nlm.nih.gov/38290049/).
+
+* Kiarashi Y, Lantz J, __Reyna M__, Anderson C, Rad AB, Foster J, Villavicencio T, Hamlin T, Clifford GD. "[Forecasting High-Risk Behavioral and Medical Events in Children with Autism through Analysis of Digital Behavioral Records](https://www.medrxiv.org/content/10.1101/2024.05.06.24306938v1)." Preprint. 2024. [doi: 10.1101/2024.05.06.24306938](https://doi.org/10.1101/2024.05.06.24306938).
+
+* Mousavi SS, __Reyna MA__, Clifford GD, Sameni R. "[A Survey on Blood Pressure Measurement Technologies: Addressing Potential Sources of Bias](https://www.mdpi.com/1424-8220/24/6/1730)." _Sensors (Basel)_. 2024 Mar 7;24(6):1730. [doi: 10.3390/s24061730](https://doi.org/10.3390/s24061730). [PMID: 38543993](https://pubmed.ncbi.nlm.nih.gov/38543993/).
+
+* Kiarashi Y, Suresha PB, Rad AB, __Reyna MA__, Anderson C, Foster J, Lantz J, Villavicencio T, Hamlin T, Clifford GD. "[Predicting Adverse Behavior in Individuals with Autism Spectrum Disorder Through Off-body Sleep Analysis](https://www.medrxiv.org/content/10.1101/2024.01.23.24301681v1)." Preprint. 2024 Jan 24:2024.01.23.24301681. [doi: 10.1101/2024.01.23.24301681](https://doi.org/10.1101/2024.01.23.24301681). [PMID: 38343835](https://pubmed.ncbi.nlm.nih.gov/38343835/).
+
+#### 2023 ####
+
+* Amorim E, Zheng WL, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, van Putten MJAM, Sameni R, __Reyna MA__, Clifford GD, Westover MB. "[The International Cardiac Arrest Research Consortium Electroencephalography Database](https://journals.lww.com/ccmjournal/abstract/2023/12000/the_international_cardiac_arrest_research.16.aspx)." _Critical Care Medicine_. 2023 Dec 1;51(12):1802-1811. [doi: 10.1097/CCM.0000000000006074](https://doi.org/10.1097/ccm.0000000000006074). [PMID: 37855659](https://pubmed.ncbi.nlm.nih.gov/37855659/).
+
+* __Reyna MA__, Amorim E, Sameni R, Weigle J, Elola A, Rad AB, Seyedi S, Kwon H, Zheng WL, Ghassemi MM, van Putten MJAM, Hofmeijer J, Gaspard N, Sivaraju A, Herman ST, Lee JW, Westover MB, Clifford GD. "[Predicting Neurological Recovery from Coma After Cardiac Arrest: The George B. Moody PhysioNet Challenge 2023](https://ieeexplore.ieee.org/abstract/document/10363885)." 2023 Computing in Cardiology (CinC), vol. 50, pp. 1-4. _IEEE_, 2023.
+
+* __Reyna MA__, Kiarashi Y, Elola A, Oliveira J, Renna F, Gu A, Perez Alday EA, Sadr N, Sharma A, Kpodonu J, Mattos S, Coimbra MT, Sameni R, Rad AB, Clifford GD. "[Heart murmur detection from phonocardiogram recordings: The George B. Moody PhysioNet Challenge 2022](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000324)." _PLOS Digital Health_. 2023 Sep 11;2(9): e0000324. [doi: 10.1371/journal.pdig.0000324](https://doi.org/10.1371/journal.pdig.0000324). [PMID: 37695769](https://pubmed.ncbi.nlm.nih.gov/37695769/).
+
+* Elola A, Aramendi E, Oliveira J, Renna F, Coimbra MT, __Reyna MA__, Sameni R, Clifford GD, Rad AB. "[Beyond Heart Murmur Detection: Automatic Murmur Grading from Phonocardiogram](https://ieeexplore.ieee.org/document/10122565)." _IEEE Journal of Biomedical Health Informatics_. 2023 Aug;27(8):3856-3866. [doi: 10.1109/JBHI.2023.3275039](https://doi.org/10.1109/jbhi.2023.3275039). [PMID: 37163396](https://pubmed.ncbi.nlm.nih.gov/37163396/).
+
+* Salari M, Kramer MR, __Reyna MA__, Taylor HA, Clifford GD. "[Combining crowd-sourcing, census data, and public review forums for real-time, high-resolution food desert estimation](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-023-01108-9)." _BioMedical Engineering OnLine_. 2023 Jul 10;22(1):69. [doi: 10.1186/s12938-023-01108-9](https://doi.org/10.1186/s12938-023-01108-9). [PMID: 37430279](https://pubmed.ncbi.nlm.nih.gov/37430279/).
+
 #### 2022 ####
 
-* E.A.P. Alday, A.B. Rad, __M.A. Reyna__, N. Sadr, A. Gu, Q. Li, M. Dumitru, J. Xue, D. Albert, R. Sameni, G.D. Clifford. [Age, sex and race bias in automated arrhythmia detectors](https://www.sciencedirect.com/science/article/abs/pii/S0022073622000942). _Journal of Electrocardiology_, 74 5-9. [PMID: 35878534](https://pubmed.ncbi.nlm.nih.gov/35878534/). 2022.
+* Perez Alday EA, Rad AB, __Reyna MA__, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sameni R, Clifford GD. "[Age, sex and race bias in automated arrhythmia detectors](https://www.sciencedirect.com/science/article/abs/pii/S0022073622000942?via%3Dihub)." _Journal of  Electrocardiology_. 2022 Sep-Oct;74:5-9. [doi: 10.1016/j.jelectrocard.2022.07.007](https://doi.org/10.1016/j.jelectrocard.2022.07.007). [PMID: 35878534](https://pubmed.ncbi.nlm.nih.gov/35878534/).
 
-* __M.A. Reyna__, N. Sadr, E.A.P. Alday, A. Gu, A.J. Shah, C. Robichaux, A.B. Rad, A. Elola, S. Seyedi, S. Ansari, H. Ghanbari, Q. Li, A. Sharma, G.D. Clifford. [Issues in the automated classification of multilead ECGs using heterogeneous labels and populations](https://iopscience.iop.org/article/10.1088/1361-6579/ac79fd/meta). _Physiological Measurement_, 43 (8), 084001. [PMID: 35815673](https://pubmed.ncbi.nlm.nih.gov/35815673/). 2022.
+* __Reyna MA__, Sadr N, Perez Alday EA, Gu A, Shah AJ, Robichaux C, Bahrami Rad A, Elola A, Seyedi S, Ansari S, Ghanbari H, Li Q, Sharma A, Clifford GD. "[Issues in the automated classification of multilead ECGs using heterogeneous labels and populations](https://iopscience.iop.org/article/10.1088/1361-6579/ac79fd)." _Physiological Measurement_. 2022 Aug 26;43(8):10.1088/1361-6579/ac79fd. [doi: 10.1088/1361-6579/ac79fd](https://doi.org/10.1088/1361-6579/ac79fd). [PMID: 35815673](https://pubmed.ncbi.nlm.nih.gov/35815673/).
 
-* __M.A Reyna__, E.O. Nsoesie, G.D. Clifford. [Rethinking algorithm performance metrics for artificial intelligence in diagnostic medicine](https://jamanetwork.com/journals/jama/article-abstract/2794258). _JAMA_, 328 (4) 329-330. [PMID: 35802382](https://pubmed.ncbi.nlm.nih.gov/35802382/). 2022.
+* __Reyna MA__, Nsoesie EO, Clifford GD. "[Rethinking Algorithm Performance Metrics for Artificial Intelligence in Diagnostic Medicine](https://jamanetwork.com/journals/jama/article-abstract/2794258)." _JAMA_. 2022 Jul 26;328(4):329-330. [doi: 10.1001/jama.2022.10561](https://doi.org/10.1001/jama.2022.10561). [PMID: 35802382](https://pubmed.ncbi.nlm.nih.gov/35802382/).
 
-* M. Rohr, C. Reich, A. Höhl, T. Lilienthal, T. Dege, F. Plesinger, V. Bulkova, G.D. Clifford, __M.A. Reyna__, C.H. Antink.
-[Exploring novel algorithms for atrial fibrillation detection by driving graduate level education in medical machine learning](https://iopscience.iop.org/article/10.1088/1361-6579/ac7840/meta). _Physiological Measurement_, 43 (7) 074001. 2022.
+* Rohr M, Reich C, Höhl A, Lilienthal T, Dege T, Plesinger F, Bulkova V, Clifford G, __Reyna M__, Hoog Antink C. "[Exploring novel algorithms for atrial fibrillation detection by driving graduate level education in medical machine learning](https://iopscience.iop.org/article/10.1088/1361-6579/ac7840)." _PhysiolOgical Measurement_. 2022 Jul 7;43(7). [doi: 10.1088/1361-6579/ac7840](https://doi.org/10.1088/1361-6579/ac7840). [PMID: 35697013](https://pubmed.ncbi.nlm.nih.gov/35697013/).
 
-* X. Mo, Q. Niu, A.A. Ivanov, Y.H. Tsang, C. Tang, C. Shu, Q. Li, K. Qian, A. Wahafu, S.P. Doyle, D. Cicka, X. Yang, D. Fan, __M.A. Reyna__, L.A.D. Cooper, C.S. Moreno, W. Zhou, T.K. Owonikoko, S. Lonial, F.R. Khuri, Y. Du, S.S. Ramalingam, G.B. Mills, H. Fu. [Systematic discovery of mutation-directed neo-protein-protein interactions in cancer](https://www.sciencedirect.com/science/article/abs/pii/S0092867422004615). _Cell_, 185 (11) 1974-1985.e12. [PMID: 35512704](https://pubmed.ncbi.nlm.nih.gov/35512704/). 2022.
+* Mo X, Niu Q, Ivanov AA, Tsang YH, Tang C, Shu C, Li Q, Qian K, Wahafu A, Doyle SP, Cicka D, Yang X, Fan D, __Reyna MA__, Cooper LAD, Moreno CS, Zhou W, Owonikoko TK, Lonial S, Khuri FR, Du Y, Ramalingam SS, Mills GB, Fu H. "[Systematic discovery of mutation-directed neo-protein-protein interactions in cancer]." _Cell_. 2022 May 26;185(11):1974-1985.e12. [doi: 10.1016/j.cell.2022.04.014](https://doi.org/10.1016/j.cell.2022.04.014). [PMID: 35512704](https://pubmed.ncbi.nlm.nih.gov/35512704/).
+
+* Oliveira J, Renna F, Costa P, Nogueira M, Oliveira AC, Elola A, Ferreira C, Jorge A, Bahrami Rad A, __Reyna M__, Sameni R, Clifford G, Coimbra M. "[The CirCor DigiScope Phonocardiogram Dataset](https://physionet.org/content/circor-heart-sound/1.0.3/training_data/)" (version 1.0.3). _PhysioNet_ (2022). [doi: 10.13026/tshs-mw03](https://doi.org/10.13026/tshs-mw03).
 
 #### 2021 ####
 
-* __M.A. Reyna__, N. Sadr, E.A. Perez Alday, A. Gu, A. Shah, C. Robichaux, A.B. Rab, A. Elola, S. Seyedi, S. Ansari, H. Ghanbari, Q. Li, A. Sharma, G.D. Clifford. [Will Two Do? Varying Dimensions in Electrocardiography: The PhysioNet/Computing in Cardiology Challenge](https://www.cinc.org/archives/2021/pdf/CinC2021-134.pdf). Computing in Cardiology (CinC) 2021/IEEE. 2021.
+* __Reyna MA__, Sadr N, Alday EAP, Gu A, Shah AJ, Robichaux C, Rad AB, et al. "[Will two do? Varying dimensions in electrocardiography: the PhysioNet/Computing in Cardiology Challenge 2021](https://ieeexplore.ieee.org/document/9662687)." In 2021 Computing in Cardiology (CinC), vol. 48, pp. 1-4. _IEEE_, 2021. [doi: 10.23919/CinC53138.2021.9662687](https://doi.org/10.23919/CinC53138.2021.9662687).
 
-* A.I. Wong, R. Kamaleswaran, A. Tabaie,  __M.A. Reyna__, C. Josef, C. Robichaux, A.A.H de Hond, E.W. Steyerberg, A.L. Holder, S. Nemati, T.G. Buchman, J.M. Blum. [Prediction of Acute Respiratory Failure Requiring Advanced Respiratory Support in Advance of Interventions and Treatment: A Multivariable Prediction Model From Electronic Medical Record Data](https://journals.lww.com/ccejournal/Fulltext/2021/05000/Prediction_of_Acute_Respiratory_Failure_Requiring.6.aspx). _Critical Care Explorations_, 3 (5). [PMID: 34079945](https://www.ncbi.nlm.nih.gov/pubmed/34079945/). 2021.
+* Wong AI, Kamaleswaran R, Tabaie A, __Reyna MA__, Josef C, Robichaux C, de Hond AAH, Steyerberg EW, Holder AL, Nemati S, Buchman TG, Blum JM. "[Prediction of Acute Respiratory Failure Requiring Advanced Respiratory Support in Advance of Interventions and Treatment: A Multivariable Prediction Model from Electronic Medical Record Data](https://journals.lww.com/ccejournal/fulltext/2021/05000/prediction_of_acute_respiratory_failure_requiring.6.aspx)." _Critical Care Exploration_. 2021 May 12;3(5): e0402. [doi: 10.1097/CCE.0000000000000402](https://doi.org/10.1097/cce.0000000000000402). [PMID: 34079945](https://pubmed.ncbi.nlm.nih.gov/34079945/).
 
-* W.C. Hahn _et al._. [An expanded universe of cancer targets](https://www.sciencedirect.com/science/article/pii/S0092867421001707). _Cell_, 184 (5), 1142-1155. [PMID: 33667368](https://pubmed.ncbi.nlm.nih.gov/33667368/). 2021.
+* Hahn WC, Bader JS, Braun TP, Califano A, Clemons PA, Druker BJ, Ewald AJ, Fu H, Jagu S, Kemp CJ, Kim W, Kuo CJ, McManus M, Mills GB, Mo X, Sahni N, Schreiber SL, Talamas JA, Tamayo P, Tyner JW, Wagner BK, Weiss WA, Gerhard DS; Cancer Target Discovery and Development Network. (2021). "[An expanded universe of cancer targets](https://www.sciencedirect.com/science/article/pii/S0092867421001707). _Cell_, 184(5), 1142-1155. [doi: 10.1016/j.cell.2021.02.020](https://doi.org/10.1016/j.cell.2021.02.020). [PMID: 33667368](https://pubmed.ncbi.nlm.nih.gov/33667368/).
 
-* __M.A. Reyna__, U. Chitra, R. Elyanow, B.J. Raphael. [NetMix: A network-structured mixture model for reduced-bias estimation of altered subnetworks](https://www.liebertpub.com/doi/abs/10.1089/cmb.2020.0435). _Journal of Computational Biology_. [PMID: 33400606](https://pubmed.ncbi.nlm.nih.gov/33400606/). 2021.
+* __Reyna MA__, Chitra U, Elyanow R, Raphael BJ. "[NetMix: A Network-Structured Mixture Model for Reduced-Bias Estimation of Altered Subnetworks](https://www.liebertpub.com/doi/10.1089/cmb.2020.0435?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)." _Journal of Computational Biology_. 2021 May;28(5):469-484. [doi: 10.1089/cmb.2020.0435](https://doi.org/10.1089/cmb.2020.0435). [PMID: 33400606](https://pubmed.ncbi.nlm.nih.gov/33400606/). 
+
+* Salari M, __Reyna M__, Kramer MD, Taylor HA, Clifford GD. "[Food Desert Assessment: An Analytical Framework for Comparing Utility of Metrics and Indices; Case Study of Key Factors, Concurrences, and Divergences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3823677)." _SSRN_. 2021 April 10. [doi: 10.2139/ssrn.3823677](https://dx.doi.org/10.2139/ssrn.3823677)
 
 
 #### 2020 ####
 
-* E.A. Perez Alday, A. Gu, A.J. Shah, C. Robichaux, A.K.I. Wong, C. Liu, F. Liu, A.B. Rad, A. Elola, S. Seyedi, Q. Li, A. Sharma, G.D. Clifford, __M.A. Reyna__. [Classification of 12-lead ECGs: the PhysioNet/Computing in Cardiology Challenge 2020](https://iopscience.iop.org/article/10.1088/1361-6579/abc960). _Physiological Measurement_, 41 (12). [PMID: 33176294](https://pubmed.ncbi.nlm.nih.gov/33176294/). 2020.
+* Perez Alday EA, Gu A, Shah A J, Robichaux C, Wong AKI, Liu C, Liu F, Bahrami Rad A, Elola A, Seyedi S, Li Q, Sharma A, Clifford GD, __Reyna MA__. "[Classification of 12-lead ECGs: the PhysioNet/Computing in Cardiology Challenge 2020](https://iopscience.iop.org/article/10.1088/1361-6579/abc960)." _Physiological Measurement_. 2020 Dec;41(12):124003. [doi: 10.1088/1361-6579/abc960](https://doi.org/10.1088/1361-6579/abc960). [PMID: 33176294](https://pubmed.ncbi.nlm.nih.gov/33176294/).
 
-* __M.A. Reyna__, E.A. Perez Alday, A. Gu, C. Liu, S. Seyedi, A.B. Rad, A. Elola, Q. Li, A. Sharma, G.D. Clifford. [Classification of 12-lead ECGs: the PhysioNet/Computing in Cardiology Challenge 2020](http://www.cinc.org/archives/2020/pdf/CinC2020-236.pdf). Computing in Cardiology (CinC) 2020/IEEE. 2020.
+* __Reyna MA__, Alday EAP, Gu A, Liu C, Seyedi S, Rad AB, Elola A, Li Q, Sharma A, Clifford GD. "[Classification of 12-lead ECGs: the PhysioNet/Computing in Cardiology Challenge 2020](https://www.cinc.org/archives/2020/pdf/CinC2020-236.pdf)". In 2020 Computing in Cardiology, pp. 1-4._IEEE_. [doi: 10.22489/CinC.2020.236](https://doi.org/10.22489/CinC.2020.236).
 
-* S. Shahamatdar, M.X. He, __M.A Reyna__, A. Gusev, S.H. AlDubayan, E.M. Van Allen, S. Ramachandran. [Germline features associated with immune infiltration in solid tumors](https://www.sciencedirect.com/science/article/pii/S221112472030200X). _Cell Reports_, 30 (9), 2900-2908. [PMID: 32130895](https://pubmed.ncbi.nlm.nih.gov/32130895/) 2020.
+* __Reyna MA__, Clifford GD. "[Voting of predictive models for clinical outcomes: consensus of algorithms for the early prediction of sepsis from clinical data and an analysis of the PhysioNet/Computing in Cardiology Challenge 2019](https://arxiv.org/pdf/2012.11013)." Preprint arXiv:2012.11013 (2020). [doi: 10.48550/arXiv.2012.11013](https://doi.org/10.48550/arXiv.2012.11013).
 
-* C. Hegde, Z. Jiang, P.B. Suresha, J. Zelko, S. Seyedi, M.A. Smith, D.W. Wright, R. Kamaleswaran, __M.A. Reyna__, G.D. Clifford. [AutoTriage - An Open Source Edge Computing Raspberry Pi-based Clinical Screening System](https://www.medrxiv.org/content/10.1101/2020.04.09.20059840v2). Preprint. 2020.
+* Hegde C, Jiang Z, Suresha PB, Zelko J, Seyedi S, Smith M, Wright D, Kamaleswaran R, __Reyna M__, Clifford G. "[AutoTriage - An Open Source Edge Computing Raspberry Pi-based Clinical Screening System](https://europepmc.org/article/ppr/ppr155080)." Preprint. 2020. [doi: 10.1101/2020.04.09.2005984](https://doi.org/10.1101/2020.04.09.20059840).
 
-* __M.A. Reyna__, D. Haan, ..., PCAWG Consortium. [Pathway and network analysis of more than 2500 whole cancer genomes](https://www.nature.com/articles/s41467-020-14367-0), _Nature Communications_, 11 (1), 1-17. [PMID: 32024854](https://pubmed.ncbi.nlm.nih.gov/32024854/). 2020.
+* Cortés-Ciriano I, Lee JJ, Xi R, Jain D, Jung YL, Yang L, Gordenin D, Klimczak LJ, Zhang CZ, Pellman DS; PCAWG Structural Variation Working Group; Park PJ; PCAWG Consortium. "[Comprehensive analysis of chromothripsis in 2,658 human cancers using whole-genome sequencing](https://www.nature.com/articles/s41588-019-0576-7)". _Nature Genetics_. 52(3), 331-341. [doi: 10.1038/s41588-019-0576-7](https://doi.org/10.1038/s41588-019-0576-7). [PMID: 32025003](https://pubmed.ncbi.nlm.nih.gov/32025003/).
 
-* __M.A. Reyna__, C. Josef, R. Jeter, S.P. Shashikumar, M.B. Westover, S. Nemati, G.D. Clifford, A. Sharma. [Early prediction of sepsis from clinical data: The PhysioNet/Computing in Cardiology Challenge 2019](https://journals.lww.com/ccmjournal/Fulltext/2020/02000/Early_Prediction_of_Sepsis_From_Clinical_Data__The.10.aspx). _Critical Care Medicine_, 48 (2), 210-217. [PMID: 31939789](https://pubmed.ncbi.nlm.nih.gov/31939789/). 2020.
+* Shahamatdar S, He MX, __Reyna MA__, Gusev A, AlDubayan SH, Van Allen EM, Ramachandran S. "[Germline Features Associated with Immune Infiltration in Solid Tumors](https://www.sciencedirect.com/science/article/pii/S221112472030200X)." _Cell Reports_. 2020 Mar 3;30(9):2900-2908.e4. [doi: 10.1016/j.celrep.2020.02.039](https://doi.org/10.1016/j.celrep.2020.02.039). [PMID: 32130895](https://pubmed.ncbi.nlm.nih.gov/32130895/).
+
+* __Reyna MA__, Haan D, Paczkowska M, Verbeke LPC, Vazquez M, Kahraman A, Pulido-Tamayo S, Barenboim J, Wadi L, Dhingra P, Shrestha R, Getz G, Lawrence MS, Pedersen JS, Rubin MA, Wheeler DA, Brunak S, Izarzugaza JMG, Khurana E, Marchal K, von Mering C, Sahinalp SC, Valencia A; PCAWG Drivers and Functional Interpretation Working Group; Reimand J, Stuart JM, Raphael BJ; PCAWG Consortium. “[Pathway and network analysis of more than 2500 whole cancer genomes](https://www.nature.com/articles/s41467-020-14367-0).” _Nature Communications_. 2020 Feb 5;11(1):729. [doi: 10.1038/s41467-020-14367-0](https://www.nature.com/articles/s41467-020-14367-0 ). Erratum in: Nat Commun. 2022 Dec 8;13(1):7566. [PMID: 32024854](https://pubmed.ncbi.nlm.nih.gov/32024854/).
+
+* __Reyna MA__, Josef CS, Jeter R, Shashikumar SP, Westover MB, Nemati S, Clifford GD, Sharma A. “[Early Prediction of Sepsis from Clinical Data: The PhysioNet/Computing in Cardiology Challenge 2019](https://journals.lww.com/ccmjournal/fulltext/2020/02000/Early_Prediction_of_Sepsis_From_Clinical_Data__The.10.aspx?context=FeaturedArticles&collectionId=2).” _Critical Care Medicine_. 2020 Feb;48(2):210-217. [doi: 10.1097/CCM.0000000000004145](https://doi.org/10.1097/ccm.0000000000004145). [PMID: 31939789](https://pubmed.ncbi.nlm.nih.gov/31939789/).
+
+* ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium. "[Pan-cancer analysis of whole genomes](https://www.nature.com/articles/s41586-020-1969-6). _Nature_. 2020 Feb;578(7793), 82-93. [doi: 10.1038/s41586-020-1969-6](https://doi.org/10.1038/s41586-020-1969-6). Epub 2020 Feb 5. [PMID: 32025007](https://pubmed.ncbi.nlm.nih.gov/32025007/).
 
 #### 2019 ####
 
-* __M.A. Reyna__, C. Josef, S. Seyedi, R. Jeter, S.P. Shashikumar, M.B. Westover, S. Nemati, A. Sharma, G.D. Clifford. [Early prediction of sepsis from clinical data: The PhysioNet/Computing in Cardiology Challenge 2019](http://www.cinc.org/archives/2019/pdf/CinC2019-412.pdf). Computing in Cardiology (CinC) 2019/IEEE. 2019.
+* __Reyna MA__, Josef CS, Jeter R, Shashikumar SP, Westover MB, Nemati S, Clifford GD, Sharma A. [Early Prediction of Sepsis From Clinical Data: The PhysioNet/Computing in Cardiology Challenge 2019](https://www.cinc.org/archives/2019/pdf/CinC2019-412.pdf). In 2019 Computing in Cardiology (CinC), pp. 1-4. _IEEE_. [doi: 10.22489/CinC.2019.412](https://doi.org/10.22489/CinC.2019.412).
 
 #### 2018 ####
 
-* __M.A. Reyna__, M.D.M. Leiserson, B.J. Raphael. [Hierarchical HotNet: identifying hierarchies of altered subnetworks](https://academic.oup.com/bioinformatics/article-abstract/34/17/i972/5093236) _European Conference on Computational Biology (ECCB) 2018/Bioinformatics_ 34 (17), i972-i980. [PMID: 30423088](https://pubmed.ncbi.nlm.nih.gov/30423088/). 2018.
+* __Reyna MA__, Leiserson MDM, Raphael BJ. “[Hierarchical HotNet: identifying hierarchies of altered subnetworks](https://academic.oup.com/bioinformatics/article/34/17/i972/5093236).” _Bioinformatics_. 2018 Sep 1;34(17): i972-i980. [doi: 10.1093/bioinformatics/bty613](https://doi.org/10.1093/bioinformatics/bty613). [PMID: 30423088](https://pubmed.ncbi.nlm.nih.gov/30423088/).
 
 #### 2016 ####
 
-* M.D.M. Leiserson, __M.A. Reyna__, B.J. Raphael. [A weighted exact test for mutually exclusive mutations in cancer](https://academic.oup.com/bioinformatics/article-abstract/32/17/i736/2450792) _European Conference on Computational Biology (ECCB) 2016/Bioinformatics_, 32 (17), i736-i745. [PMID: 27587696](https://pubmed.ncbi.nlm.nih.gov/27587696/). 2016.
+* Leiserson MD, __Reyna MA__, Raphael BJ. “[A weighted exact test for mutually exclusive mutations in cancer](https://academic.oup.com/bioinformatics/article/32/17/i736/2450792).” _Bioinformatics_. 2016 Sep 1;32(17): i736-i745. [doi: 10.1093/bioinformatics/btw462](https://doi.org/10.1093/bioinformatics/btw462). [PMID: 27587696](https://pubmed.ncbi.nlm.nih.gov/27587696/).
 
 #### 2015 ####
 
-* L.E. Rieder, Y.A. Savva, __M.A. Reyna__, Y.J. Chang, J.S. Dorsky, A. Rezaei, R.A. Reenan. [Dynamic response of RNA editing to temperature in Drosophila](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-014-0111-3), _BMC Biology_, 13 (1), 1-16. [PMID: 25555396](https://pubmed.ncbi.nlm.nih.gov/25555396/). 2015.
+* Rieder LE, Savva YA, __Reyna MA__, Chang YJ, Dorsky JS, Rezaei A, Reenan RA.”[Dynamic response of RNA editing to temperature in Drosophila](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-014-0111-3).” _BMC Biology_. 2015 Jan 3; 13:1. [doi: 10.1186/s12915-014-0111-3](https://doi.org/10.1186/s12915-014-0111-3). PMID: 25555396.
 
-* __M.A. Reyna__, F. Li. [Operator bounds and time step conditions for the DG and central DG methods](https://link.springer.com/article/10.1007/s10915-014-9866-5), _Journal of Scientific Computing_, 62 (2), 532-554. 2015.
+* __Reyna MA__, Li F. "[Operator Bounds and Time Step Conditions for the DG and Central DG Methods](https://link.springer.com/article/10.1007/s10915-014-9866-5)." _Journal of Scientific Computing_. 2015; 62:532–554. [doi:10.1007/s10915-014-9866-5](https://doi.org/10.1007/s10915-014-9866-5).
+
+
+
+
+
 
 ---
 
