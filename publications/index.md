@@ -4,19 +4,33 @@ layout: default
 
 ## Publications
 
-Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtcAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=matthew+reyna%5BAuthor%5D), and [ORCID](https://orcid.org/0000-0003-4688-7965) pages for more publications, including my most recent work.
+Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtcAAAAJ), [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/matthew.reyna.1/bibliography/public/), and [ORCID](https://orcid.org/0000-0003-4688-7965) pages for more publications, including my most recent work.
 
 ### Highlighted Publications ###
 
+#### 2025 ####
+
+* Ardeshir Larijani F, Bozkurt S, Barnett R, Ali A, Bou Zerdan M, Campbell K, Canaslan K, __Reyna MA__. [Genomic and circulating tumor DNA landscape in young-onset non-small cell lung cancer](https://www.asco.org/abstracts-presentations/ABSTRACT492804). _J Clin Oncol._ 2025 Jun 1;43(16_suppl):8528.
+
+* Das S, Ge Y, Guo Y, Rajwal S, Hairston J, Powell J, Walker D, Peddireddy S, Lakamana S, Bozkurt S, __Reyna MA__, Sameni R, Xiao Y, Kim S, Chandler R, Hernandez N, Mowery D, Wightman R, Love J, Spadaro A, Perrone J, Sarker A. "[Two-layer retrieval-augmented generation framework for low-resource medical question answering using Reddit data: proof-of-concept study](https://www.jmir.org/2025/1/e66220)". _J Med Internet Res._ 2025 Jan 6;27:e66220. [doi: 10.2196/66220](https://doi.org/10.2196/66220). [PMID: 39761554](https://pubmed.ncbi.nlm.nih.gov/39761554/).
+
+* Koscova Z, Li Q, Robichaux C, Moura Junior V, Ghanta M, Gupta A, Rosand J, Aguirre A, Hong S, Albert DE, Xue J, Parekh A, Sameni R, __Reyna MA__, Westover MB, Clifford GD. "[The Harvard-Emory ECG Database](https://www.medrxiv.org/content/10.1101/2024.09.27.24314503v2)". medRxiv. 2024 Oct 1:2024.09.27.24314503.
+
 #### 2024 ####
+
+* Kiarashi Y, B PS, Rad A, __Reyna MA__, Anderson C, Foster J, Lantz J, Villavicencio T, Hamlin T, Clifford GD. "[Off-Body Sleep Analysis for Predicting Adverse Behavior in Individuals With Autism Spectrum Disorder](https://ieeexplore.ieee.org/document/10669162)". IEEE J Biomed Health Inform. 2024 Nov;28(11):6886-6896. doi: 10.1109/JBHI.2024.3455942. Epub 2024 Nov 6. [doi: 10.1109/JBHI.2024.3455942](https://doi.org/10.1109/JBHI.2024.3455942). [PMID: 39240748](https://pubmed.ncbi.nlm.nih.gov/39240748/)
+
+* __Reyna MA__, Deepanshi, Weigle J, Koscova Z, Campbell K, Seyedi S, Elola A, Bahrami Rad A, Shah AJ, Bhatia NK, Clifford GD, Sameni R. "[Digitization and classification of ECG images: The George B. Moody PhysioNet Challenge 2024](https://www.cinc.org/archives/2024/pdf/CinC2024-011.pdf). 2024 Computing in Cardiology (CinC), vol. 5`, pp. 1-4. 2024.
+
+* __Reyna MA__, Deepanshi, Weigle J, Koscova Z, Campbell K, Shivashankara KK, Saghafi S, Nikookar S, Motie-Shirazi M, Kiarashi Y, Seyedi S, Clifford GD, Sameni R. "[ECG-Image-Database: A Dataset of ECG Images with Real-World Imaging and Scanning Artifacts; A Foundation for Computerized ECG Image Digitization and Analysis](https://arxiv.org/abs/2409.16612). ArXiv. 2024 Sep 25; [PMID: 39398215](https://pubmed.ncbi.nlm.nih.gov/39398215/)
+
+* Koscova Z, Rad AB, Nasiri S, __Reyna MA__, Sameni R, Trotti LM, Sun H, Turley N, Stone KL, Thomas RJ, Mignot E, Westover B, Clifford GD. "[From sleep patterns to heart rhythm: Predicting atrial fibrillation from overnight polysomnograms](https://www.sciencedirect.com/science/article/abs/pii/S0022073624002292)". J Electrocardiol. 2024 Sep-Oct;86:153759. [doi: 10.1016/j.jelectrocard.2024.153759](https://doi.org/10.1016/j.jelectrocard.2024.153759). [PMID: 39067281](https://pubmed.ncbi.nlm.nih.gov/39067281/).
+
+* Shivashankara KK, Deepanshi, Mehri Shervedani A, Clifford GD, __Reyna MA__, Sameni R. [ECG-Image-Kit: a synthetic image generation toolbox to facilitate deep learning-based electrocardiogram digitization](https://iopscience.iop.org/article/10.1088/1361-6579/ad4954). _Physiol Meas_. 2024 May 28;45(5). [doi: 10.1088/1361-6579/ad4954](https://doi.org/10.1088/1361-6579/ad4954). [PMID: 38290049](https://pubmed.ncbi.nlm.nih.gov/39150768/).
 
 * Brockett JS, Manalo T, Zein-Sabatto H, Lee J, Fang J, Chu P, Feng H, Patil D, Davidson P, Ogan K, Master VA, Pattaras JG, Roberts DL, Bergquist SH, __Reyna MA__, Petros JA, Lerit DA, Arnold RS. "[A missense SNP in the tumor suppressor SETD2 reduces H3K36me3 and mitotic spindle integrity in Drosophila](https://academic.oup.com/genetics/article/226/4/iyae015/7593483)." _Genetics_. 2024 Apr 3;226(4): iyae015. [doi: 10.1093/genetics/iyae015](https://doi.org/10.1093/genetics/iyae015). [PMID: 38290049](https://pubmed.ncbi.nlm.nih.gov/38290049/).
 
-* Kiarashi Y, Lantz J, __Reyna M__, Anderson C, Rad AB, Foster J, Villavicencio T, Hamlin T, Clifford GD. "[Forecasting High-Risk Behavioral and Medical Events in Children with Autism through Analysis of Digital Behavioral Records](https://www.medrxiv.org/content/10.1101/2024.05.06.24306938v1)." Preprint. 2024. [doi: 10.1101/2024.05.06.24306938](https://doi.org/10.1101/2024.05.06.24306938).
-
 * Mousavi SS, __Reyna MA__, Clifford GD, Sameni R. "[A Survey on Blood Pressure Measurement Technologies: Addressing Potential Sources of Bias](https://www.mdpi.com/1424-8220/24/6/1730)." _Sensors (Basel)_. 2024 Mar 7;24(6):1730. [doi: 10.3390/s24061730](https://doi.org/10.3390/s24061730). [PMID: 38543993](https://pubmed.ncbi.nlm.nih.gov/38543993/).
-
-* Kiarashi Y, Suresha PB, Rad AB, __Reyna MA__, Anderson C, Foster J, Lantz J, Villavicencio T, Hamlin T, Clifford GD. "[Predicting Adverse Behavior in Individuals with Autism Spectrum Disorder Through Off-body Sleep Analysis](https://www.medrxiv.org/content/10.1101/2024.01.23.24301681v1)." Preprint. 2024 Jan 24:2024.01.23.24301681. [doi: 10.1101/2024.01.23.24301681](https://doi.org/10.1101/2024.01.23.24301681). [PMID: 38343835](https://pubmed.ncbi.nlm.nih.gov/38343835/).
 
 #### 2023 ####
 
@@ -40,9 +54,9 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtc
 
 * Rohr M, Reich C, Höhl A, Lilienthal T, Dege T, Plesinger F, Bulkova V, Clifford G, __Reyna M__, Hoog Antink C. "[Exploring novel algorithms for atrial fibrillation detection by driving graduate level education in medical machine learning](https://iopscience.iop.org/article/10.1088/1361-6579/ac7840)." _PhysiolOgical Measurement_. 2022 Jul 7;43(7). [doi: 10.1088/1361-6579/ac7840](https://doi.org/10.1088/1361-6579/ac7840). [PMID: 35697013](https://pubmed.ncbi.nlm.nih.gov/35697013/).
 
-* Mo X, Niu Q, Ivanov AA, Tsang YH, Tang C, Shu C, Li Q, Qian K, Wahafu A, Doyle SP, Cicka D, Yang X, Fan D, __Reyna MA__, Cooper LAD, Moreno CS, Zhou W, Owonikoko TK, Lonial S, Khuri FR, Du Y, Ramalingam SS, Mills GB, Fu H. "[Systematic discovery of mutation-directed neo-protein-protein interactions in cancer]." _Cell_. 2022 May 26;185(11):1974-1985.e12. [doi: 10.1016/j.cell.2022.04.014](https://doi.org/10.1016/j.cell.2022.04.014). [PMID: 35512704](https://pubmed.ncbi.nlm.nih.gov/35512704/).
+* Mo X, Niu Q, Ivanov AA, Tsang YH, Tang C, Shu C, Li Q, Qian K, Wahafu A, Doyle SP, Cicka D, Yang X, Fan D, __Reyna MA__, Cooper LAD, Moreno CS, Zhou W, Owonikoko TK, Lonial S, Khuri FR, Du Y, Ramalingam SS, Mills GB, Fu H. "[Systematic discovery of mutation-directed neo-protein-protein interactions in cancer](https://www.cell.com/cell/fulltext/S0092-8674(22)00461-5)." _Cell_. 2022 May 26;185(11):1974-1985.e12. [doi: 10.1016/j.cell.2022.04.014](https://doi.org/10.1016/j.cell.2022.04.014). [PMID: 35512704](https://pubmed.ncbi.nlm.nih.gov/35512704/).
 
-* Oliveira J, Renna F, Costa P, Nogueira M, Oliveira AC, Elola A, Ferreira C, Jorge A, Bahrami Rad A, __Reyna M__, Sameni R, Clifford G, Coimbra M. "[The CirCor DigiScope Phonocardiogram Dataset](https://physionet.org/content/circor-heart-sound/1.0.3/training_data/)" (version 1.0.3). _PhysioNet_ (2022). [doi: 10.13026/tshs-mw03](https://doi.org/10.13026/tshs-mw03).
+* Oliveira J, Renna F, Costa P, Nogueira M, Oliveira AC, Elola A, Ferreira C, Jorge A, Bahrami Rad A, __Reyna M__, Sameni R, Clifford G, Coimbra M. "[The CirCor DigiScope Phonocardiogram Dataset](https://physionet.org/content/circor-heart-sound/1.0.3/)" (version 1.0.3). _PhysioNet_ (2022). [doi: 10.13026/tshs-mw03](https://doi.org/10.13026/tshs-mw03).
 
 #### 2021 ####
 
@@ -95,7 +109,8 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtc
 
 
 
-
+
+
 
 
 ---
