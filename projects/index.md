@@ -12,4 +12,4 @@ My recent [publications](../publications) illustrate many of my research interes
 
 ---
 
-[Home](../) &#9632; [People](../people) &#9632; [Projects](../projects) &#9632; [Publications](../publications) &#9632; [Teaching](../teaching) &#9632; [BMI FAQ](../bmi_faq)
+[Home](../) &#9632; [People](../people) &#9632; [Projects](../projects) &#9632; [Publications](../publications) &#9632; [Teaching](../teaching) &#9632; [Lab Expectations](../expectations) &#9632; [BMI FAQ](../bmi_faq)

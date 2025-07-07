@@ -16,25 +16,29 @@ This resource provides quick answers for frequently asked questions (FAQ) for st
 
 ## <a name="health"></a>Health and Wellness
 
-### Feeling sick? Stay home (and feel better soon).
-If you are not feeling well, or have not felt well in the past week, then please do not come to campus. Your instructors and advisors can accommodate you, and they would be happy to accommodate you instead of risking your health or the health of others. Please see [Emory's current COVID-19 guidance](https://www.emory.edu/forward/covid-19/if-you-feel-sick.html) for details.
+### Health
+If you have or believe that you may have a respiratory or other contagious infection, then please follow Emory's policies to protect your and others' health. Like many other faculty, I am happy to meet remotely or reschedule meetings for your and others' health. Emory provides many health-related resources to students, so please contact [Student Health](https://studenthealth.emory.edu/) for support.
 
-### COVID-19
-If you have COVID-19 symptoms, test positive for COVID-19 symptoms, or were exposed to COVID-19, then please do not come to campus, and please contact Student Health. Please see [Emory's current COVID-19 guidance](https://www.emory.edu/forward/covid-19/if-you-feel-sick.html) for details. Your instructors and advisors can accommodate you when you are sick.
+### Accessibility and Accommodations
+I aim to provide an inclusive environment that allows every student to succeed. The Department of Accessibility Services (DAS) works with students who have disabilities to provide reasonable accommodations. It is your responsibility to request accommodations. In order to receive consideration for reasonable accommodations, you must [register](https://accessibility.emory.edu/students/) with the DAS. Accommodations cannot be applied retroactively, so you must contact DAS as early as possible to request accommodations and contact me as early as possible to discuss the plan for implementing your accommodations. For additional information about accessibility and accommodations, please contact the DAS at (404) 727-9877 or accessibility@emory.edu.
 
-## Safety and Inclusion
-Our goal is to create a safe and inclusive environment. If we mispronounce your name, use an incorrect pronoun, etc., then please correct us. If you do not feel safe, then please inform your instructor, advisor, or another trusted faculty member. Emory faculty are mandatory [Title IX](https://equityandinclusion.emory.edu/title-ix/index.html) reporters, i.e., we are obligated by law to inform the Title IX coordinator at Emory about sexual harassment and misconduct.
+### Support Services
+If you are struggling with emotional, psychological, or other issues that threaten your success, then please contact Emory's [Counseling and Psychological Services (CAPS)](http://counseling.emory.edu/index.html) or, more broadly, one of the support services and organizations through [Campus Life](https://campuslife.emory.edu/support/index.html). CAPS services are free to Emory students. Emory provides a variety of support services, including free, 24/7 support resources for emotional health, mental health, and medical support via [TimelyCare](https://timelycare.com/emory). We understand that life happens outside of the classroom and the lab. If you suffer a tragedy, then please know that you can reach out to us, CAPS, and Student Health Services for help.
 
-## Accessibility and Accommodations
-The [Department of Accessibility Services](https://accessibility.emory.edu/students/index.html) works with students with disabilities to provide reasonable accommodations. To receive consideration for reasonable accommodations, you must register with the DAS. It is your responsibility to request accommodations, and your accommodations cannot be retroactively applied, so please contact the DAS and your instructors as early to discuss the plan for implementing your accommodations. For additional information about accessibility and accommodations, please contact the DAS at (404)-727-9877 or accessibility@emory.edu.
+### Inclusion and Safety
+The members of our academic community represent a rich variety of backgrounds and perspectives. We are committed to providing an atmosphere for learning that leverages this diversity. We encourage members to:
 
-## Support Services
-You are important, and we want you to do well in your courses, in your research, and in life. If you are struggling with emotional, psychological, or other issues that threaten your success, then please contact [Emory's Counseling and Psychological Services (CAPS)](http://counseling.emory.edu/index.html) or, more broadly, one of the support services and organizations through [Campus Life](https://campuslife.emory.edu/support/index.html). CAPS services are free to Emory students. Emory provides a variety of support services, including free, 24/7 support resources for emotional health, mental health, and medical support via [TimelyCare](https://timelycare.com/emory). We understand that life happens outside of the classroom and the lab. If you suffer a tragedy, then please know that you can reach out to us, CAPS, and Student Health Services for help.
+- share their unique experiences and ideas;
+- be open to the views of others;
+- honor the uniqueness of their colleagues; and
+- appreciate the opportunity that we have to learn from each other in this community.
+
+Your safety is important. Emory faculty are required to report information about alleged sexual harassment to the [Title IX](https://equityandcompliance.emory.edu/title-ix/index.html) Coordinator.
 
 ## Academic Integrity
-You are expected to uphold and cooperate in maintaining academic integrity as a member of the Laney Graduate School. By taking this course, you affirm your commitment to the [Laney Graduate School Honor Code](http://gs.emory.edu/handbook/honor-conduct-grievance/honor/index.html), which you can find in the [Laney Graduate School Handbook](https://gs.emory.edu/_includes/documents/sections/handbook/handbook.pdf). You should ensure that you are familiar with the rights and responsibilities of members of our academic community and with policies that apply to students as members of our academic community. Any individual, when they suspect that an offense of academic misconduct has occurred, shall report this suspected breach to the appropriate Director of Graduate Studies, Program Director, or Dean of the Laney Graduate School. If an allegation is reported to a Director of Graduate Studies or a Program Director, they are in turn required to report the allegation to the Dean of Laney Graduate School.
+You are expected to uphold and cooperate in maintaining academic integrity as a member of the Laney Graduate School. By taking our courses, you affirm your commitment to the [Laney Graduate School Honor Code](http://gs.emory.edu/handbook/honor-conduct-grievance/honor/index.html), which you can find in the [Laney Graduate School Handbook](https://gs.emory.edu/_includes/documents/sections/handbook/handbook.pdf). You should ensure that you are familiar with the rights and responsibilities of members of our academic community and with policies that apply to students as members of our academic community. Any individual, when they suspect that an offense of academic misconduct has occurred, shall report this suspected breach to the appropriate Director of Graduate Studies, Program Director, or Dean of the Laney Graduate School. If an allegation is reported to a Director of Graduate Studies or a Program Director, they are in turn required to report the allegation to the Dean of Laney Graduate School.
 
-Your instructors and advisor likely have specific expectations for academic integrity. If you are in doubt, then please ask before potentially violating these expectations.
+Your instructors and advisor likely have specific expectations for academic and research integrity and definitions of academic and research misconduct. If you are in doubt, then please ask before potentially violating these expectations.
 
 ## <a name="courses"></a>Courses
 
@@ -65,15 +69,15 @@ Introduction to analytical techniques for single-cell RNA-sequencing data in can
 - __BMI 585: Topics in Biomedical Informatics__ (Various credit hours)
 This is a special topics course in Biomedical Informatics.
 
-BMI students often take [CS courses](https://www.cs.emory.edu/courses/), [BIOS courses](https://www.sph.emory.edu/academics/courses/bios-courses/), and [MATH courses](https://www.math.emory.edu/courses/) as well as [courses](https://atlas.emory.edu/) from other departments and programs at Emory and nearby institutions.
+BMI students often take CS courses, BIOS courses, and MATH courses as well as [courses](https://atlas.emory.edu/) from other departments and programs at Emory and nearby institutions.
 
 ## <a name="policies"></a>Policies
 
 ### Handbooks
-The current Laney Graduate School (LGS) [Handbook](https://gs.emory.edu/_includes/documents/sections/handbook/handbook.pdf) describes the policies of the graduate school, and the current Computer Science and Informatics (CSI) Graduate Program [Handbook](https://www.cs.emory.edu/site/doc/CSI-Handbook.pdf) describes the policies of the graduate program. We recommend that you read both (at least) once at the beginning of the program.
+The current Laney Graduate School (LGS) [Handbook](https://gs.emory.edu/_includes/documents/sections/handbook/handbook.pdf) describes the policies of the graduate school, and the current Computer Science and Informatics (CSI) Graduate Program [Handbook](https://computerscience.emory.edu/documents/csi-handbook.pdf) describes the policies of the graduate program. We recommend that you read both (at least) once at the beginning of the program.
 
 ### Course Requirements
-The CSI PhD Program has three required courses and four elective courses. See the [Handbook](https://www.cs.emory.edu/site/doc/CSI-Handbook.pdf) for these courses.
+The CSI PhD Program has three required courses and four elective courses. See the [Handbook](https://computerscience.emory.edu/documents/csi-handbook.pdf) for these courses.
 
 ### Tracks
 There are two tracks in the CSI PhD Program: the BMI track and the CS track. The only difference between these tracks are the options for required and elective courses. You can satisfy either the BMI track or the CS track (or both) regardless of your advisor's home department, but we recommend that you choose courses in consultation with your advisor.
@@ -142,4 +146,4 @@ For some issues, you may prefer to contact your instructor or advisor. For other
 
 ---
 
-[Home](../) &#9632; [People](../people) &#9632; [Projects](../projects) &#9632; [Publications](../publications) &#9632; [Teaching](../teaching) &#9632; [BMI FAQ](../bmi_faq)
+[Home](../) &#9632; [People](../people) &#9632; [Projects](../projects) &#9632; [Publications](../publications) &#9632; [Teaching](../teaching) &#9632; [Lab Expectations](../expectations) &#9632; [BMI FAQ](../bmi_faq)

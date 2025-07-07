@@ -107,12 +107,6 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtc
 
 * __Reyna MA__, Li F. "[Operator Bounds and Time Step Conditions for the DG and Central DG Methods](https://link.springer.com/article/10.1007/s10915-014-9866-5)." _Journal of Scientific Computing_. 2015; 62:532–554. [doi:10.1007/s10915-014-9866-5](https://doi.org/10.1007/s10915-014-9866-5).
 
-
-
-
-
-
-
 ---
 
-[Home](../) &#9632; [People](../people) &#9632; [Projects](../projects) &#9632; [Publications](../publications) &#9632; [Teaching](../teaching) &#9632; [BMI FAQ](../bmi_faq)
+[Home](../) &#9632; [People](../people) &#9632; [Projects](../projects) &#9632; [Publications](../publications) &#9632; [Teaching](../teaching) &#9632; [Lab Expectations](../expectations) &#9632; [BMI FAQ](../bmi_faq)
