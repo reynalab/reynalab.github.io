@@ -47,20 +47,12 @@ If you are interested in applying to our graduate program, then you are welcome 
 If you have or believe that you may have a respiratory or other contagious infection, then please follow Emory's policies to protect your and others' health. Like many other faculty, I am happy to meet remotely or reschedule meetings for your and others' health. Emory provides many health-related resources to students, so please contact [Student Health](https://studenthealth.emory.edu/) for support.
 
 ### Accessibility and Accommodations
-I aim to provide an inclusive environment that allows every student to succeed. The Department of Accessibility Services (DAS) works with students who have disabilities to provide reasonable accommodations. It is your responsibility to request accommodations. In order to receive consideration for reasonable accommodations, you must [register](https://accessibility.emory.edu/students/) with the DAS. Accommodations cannot be applied retroactively, so you must contact DAS as early as possible to request accommodations and contact me as early as possible to discuss the plan for implementing your accommodations. For additional information about accessibility and accommodations, please contact the DAS at (404) 727-9877 or accessibility@emory.edu.
+I aim to provide an environment that allows every student to succeed. The Department of Accessibility Services (DAS) works with students who have disabilities to provide reasonable accommodations. It is your responsibility to request accommodations. In order to receive consideration for reasonable accommodations, you must [register](https://accessibility.emory.edu/students/) with the DAS. Accommodations cannot be applied retroactively, so you must contact DAS as early as possible to request accommodations and contact me as early as possible to discuss the plan for implementing your accommodations. For additional information about accessibility and accommodations, please contact the DAS at (404) 727-9877 or accessibility@emory.edu.
+
+LGS provide many forms of [support](https://gs.emory.edu/guides/students/support.html) to students and faculty. My lab follows and supports policies and expectations on this [page](https://gs.emory.edu/guides/students/support.html).
 
 ### Support Services
 If you are struggling with emotional, psychological, or other issues that threaten your success, then please contact Emory's [Counseling and Psychological Services (CAPS)](http://counseling.emory.edu/index.html) or, more broadly, one of the support services and organizations through [Campus Life](https://campuslife.emory.edu/support/index.html). CAPS services are free to Emory students. Emory provides a variety of support services, including free, 24/7 support resources for emotional health, mental health, and medical support via [TimelyCare](https://timelycare.com/emory). We understand that life happens outside of the classroom and the lab. If you suffer a tragedy, then please know that you can reach out to us, CAPS, and Student Health Services for help.
-
-### Inclusion and Safety
-The members of our academic community represent a rich variety of backgrounds and perspectives. We are committed to providing an atmosphere for learning that leverages this diversity. We encourage members to:
-
-- share their unique experiences and ideas;
-- be open to the views of others;
-- honor the uniqueness of their colleagues; and
-- appreciate the opportunity that we have to learn from each other in this community.
-
-Your safety is important. Emory faculty are required to report information about alleged sexual harassment to the [Title IX](https://equityandcompliance.emory.edu/title-ix/index.html) Coordinator.
 
 ### Academic and Research Misconduct
 Misconduct impedes our work and can seriously affect lab members and collaborators. I expect you to notify me if you are aware of misconduct, and I expect you to ask me if you are concerned that you may be committing or may commit misconduct.

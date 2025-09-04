@@ -22,18 +22,10 @@ If you have or believe that you may have a respiratory or other contagious infec
 ### Accessibility and Accommodations
 I aim to provide an inclusive environment that allows every student to succeed. The Department of Accessibility Services (DAS) works with students who have disabilities to provide reasonable accommodations. It is your responsibility to request accommodations. In order to receive consideration for reasonable accommodations, you must [register](https://accessibility.emory.edu/students/) with the DAS. Accommodations cannot be applied retroactively, so you must contact DAS as early as possible to request accommodations and contact me as early as possible to discuss the plan for implementing your accommodations. For additional information about accessibility and accommodations, please contact the DAS at (404) 727-9877 or accessibility@emory.edu.
 
+LGS provide many forms of [support](https://gs.emory.edu/guides/students/support.html) to students and faculty. BMI follows and supports policies and expectations on this [page](https://gs.emory.edu/guides/students/support.html).
+
 ### Support Services
 If you are struggling with emotional, psychological, or other issues that threaten your success, then please contact Emory's [Counseling and Psychological Services (CAPS)](http://counseling.emory.edu/index.html) or, more broadly, one of the support services and organizations through [Campus Life](https://campuslife.emory.edu/support/index.html). CAPS services are free to Emory students. Emory provides a variety of support services, including free, 24/7 support resources for emotional health, mental health, and medical support via [TimelyCare](https://timelycare.com/emory). We understand that life happens outside of the classroom and the lab. If you suffer a tragedy, then please know that you can reach out to us, CAPS, and Student Health Services for help.
-
-### Inclusion and Safety
-The members of our academic community represent a rich variety of backgrounds and perspectives. We are committed to providing an atmosphere for learning that leverages this diversity. We encourage members to:
-
-- share their unique experiences and ideas;
-- be open to the views of others;
-- honor the uniqueness of their colleagues; and
-- appreciate the opportunity that we have to learn from each other in this community.
-
-Your safety is important. Emory faculty are required to report information about alleged sexual harassment to the [Title IX](https://equityandcompliance.emory.edu/title-ix/index.html) Coordinator.
 
 ## Academic Integrity
 You are expected to uphold and cooperate in maintaining academic integrity as a member of the Laney Graduate School. By taking our courses, you affirm your commitment to the [Laney Graduate School Honor Code](http://gs.emory.edu/handbook/honor-conduct-grievance/honor/index.html), which you can find in the [Laney Graduate School Handbook](https://gs.emory.edu/_includes/documents/sections/handbook/handbook.pdf). You should ensure that you are familiar with the rights and responsibilities of members of our academic community and with policies that apply to students as members of our academic community. Any individual, when they suspect that an offense of academic misconduct has occurred, shall report this suspected breach to the appropriate Director of Graduate Studies, Program Director, or Dean of the Laney Graduate School. If an allegation is reported to a Director of Graduate Studies or a Program Director, they are in turn required to report the allegation to the Dean of Laney Graduate School.
