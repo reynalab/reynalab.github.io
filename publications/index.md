@@ -8,7 +8,20 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtc
 
 ### Highlighted Publications ###
 
+#### 2026 ####
+
+Tripathi A, Gupta A, Ganglberger W, Waters S, Sun H, Nasiri S, Mitra A, Stone KL, Mignot E, Hwang D, __Reyna MA__, Trotti LM, Clifford GD, Maski K, Katwa U, Thomas RJ, Westover MB.[Pediatric SleepNet: a deep learning network for reliable pediatric sleep staging across developmental stages](https://doi.org/10.1093/sleep/zsag064). *Sleep.* 2026 Mar 10: zsag064. PMID: [41804802](https://pubmed.ncbi.nlm.nih.gov/41804802/)
+
+Koscova Z, Li Q, Robichaux C, Moura Junior V, Ghanta M, Gupta A, Rosand J, Aguirre AD, Reinertsen E, Song S, Hong S, Albert DE, Xue J, Parekh A, Sameni R, __Reyna MA__, Westover MB, Clifford GD. [The Harvard-Emory ECG database](https://doi.org/10.1038/s41597-026-06861-9). *Sci Data.* 2026 Feb 25;13:516. [PMID: 41741499](https://pubmed.ncbi.nlm.nih.gov/41741499/)
+
 #### 2025 ####
+
+* Tripathi A, Nasiri S, Ganglberger W, Nassi T, Meulenbrugge EJ, Sun H, Stone KL, Mignot E, Hwang D, Trotti LM, __Reyna MA__, Clifford GD, Katwa U, Thomas RJ, Westover MB. [Automated analysis of the American Academy of Sleep Medicine inter-scorer reliability gold-standard polysomnogram dataset](https://link.springer.com/article/10.5664/jcsm.11848). *J Clin Sleep Med.* 2025 Nov 1;21(11):1821-1829.
+
+* __Reyna MA__, Koscova Z, Pavlus J, Saghafi S, Weigle J, Elola A, Seyedi S, Campbell K, Li Q, Bahrami Rad A, Ribeiro AH, Ribeiro ALA, Sameni R, Clifford GD. [Detection of Chagas disease from the ECG: the George B. Moody PhysioNet Challenge 2025.](https://cinc.org/archives/2025/pdf/CinC2025-068.pdf) 2025 Computing in Cardiology (CinC), vol. 52, pp. 1-4. 2024.
+
+* Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra A, Waters S, Gupta A, Gupta A, Ghanta M, Moura Junior V, Nasiri S, Nearing B, Stone KL, Mignot E, Hwang D, __Reyna MA__, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski K, Katwa U. [The Boston Children's Hospital sleep corpus: a collection of 15,695 annotated pediatric polysomnograms](https://doi.org/10.1093/sleep/zsaf273). _Sleep._ 2025 Sep 16: zsaf273. [PMID: 40971987](https://pubmed.ncbi.nlm.nih.gov/40971987/)
+
 
 * Ardeshir Larijani F, Bozkurt S, Barnett R, Ali A, Bou Zerdan M, Campbell K, Canaslan K, __Reyna MA__. [Genomic and circulating tumor DNA landscape in young-onset non-small cell lung cancer](https://www.asco.org/abstracts-presentations/ABSTRACT492804). _J Clin Oncol._ 2025 Jun 1;43(16_suppl):8528.
 
@@ -18,11 +31,11 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=sinbqtc
 
 #### 2024 ####
 
-* Kiarashi Y, B PS, Rad A, __Reyna MA__, Anderson C, Foster J, Lantz J, Villavicencio T, Hamlin T, Clifford GD. [Off-Body Sleep Analysis for Predicting Adverse Behavior in Individuals With Autism Spectrum Disorder](https://ieeexplore.ieee.org/document/10669162). IEEE J Biomed Health Inform. 2024 Nov;28(11):6886-6896. doi: 10.1109/JBHI.2024.3455942. Epub 2024 Nov 6. [doi: 10.1109/JBHI.2024.3455942](https://doi.org/10.1109/JBHI.2024.3455942). [PMID: 39240748](https://pubmed.ncbi.nlm.nih.gov/39240748/)
+* Kiarashi Y, B PS, Rad A, __Reyna MA__, Anderson C, Foster J, Lantz J, Villavicencio T, Hamlin T, Clifford GD. [Off-Body Sleep Analysis for Predicting Adverse Behavior in Individuals With Autism Spectrum Disorder](https://ieeexplore.ieee.org/document/10669162). IEEE J Biomed Health Inform. 2024 Nov;28(11):6886-6896. Epub 2024 Nov 6. [doi: 10.1109/JBHI.2024.3455942](https://doi.org/10.1109/JBHI.2024.3455942). [PMID: 39240748](https://pubmed.ncbi.nlm.nih.gov/39240748/).
 
-* __Reyna MA__, Deepanshi, Weigle J, Koscova Z, Campbell K, Seyedi S, Elola A, Bahrami Rad A, Shah AJ, Bhatia NK, Clifford GD, Sameni R. [Digitization and classification of ECG images: The George B. Moody PhysioNet Challenge 2024](https://www.cinc.org/archives/2024/pdf/CinC2024-011.pdf). 2024 Computing in Cardiology (CinC), vol. 5`, pp. 1-4. 2024.
+* __Reyna MA__, Deepanshi, Weigle J, Koscova Z, Campbell K, Seyedi S, Elola A, Bahrami Rad A, Shah AJ, Bhatia NK, Clifford GD, Sameni R. [Digitization and classification of ECG images: The George B. Moody PhysioNet Challenge 2024](https://www.cinc.org/archives/2024/pdf/CinC2024-011.pdf). 2024 Computing in Cardiology (CinC), vol. 51, pp. 1-4. 2024.
 
-* __Reyna MA__, Deepanshi, Weigle J, Koscova Z, Campbell K, Shivashankara KK, Saghafi S, Nikookar S, Motie-Shirazi M, Kiarashi Y, Seyedi S, Clifford GD, Sameni R. [ECG-Image-Database: A Dataset of ECG Images with Real-World Imaging and Scanning Artifacts; A Foundation for Computerized ECG Image Digitization and Analysis](https://arxiv.org/abs/2409.16612). ArXiv. 2024 Sep 25; [PMID: 39398215](https://pubmed.ncbi.nlm.nih.gov/39398215/)
+* __Reyna MA__, Deepanshi, Weigle J, Koscova Z, Campbell K, Shivashankara KK, Saghafi S, Nikookar S, Motie-Shirazi M, Kiarashi Y, Seyedi S, Clifford GD, Sameni R. [ECG-Image-Database: A Dataset of ECG Images with Real-World Imaging and Scanning Artifacts; A Foundation for Computerized ECG Image Digitization and Analysis](https://arxiv.org/abs/2409.16612). ArXiv. 2024 Sep 25; [PMID: 39398215](https://pubmed.ncbi.nlm.nih.gov/39398215/).
 
 * Koscova Z, Rad AB, Nasiri S, __Reyna MA__, Sameni R, Trotti LM, Sun H, Turley N, Stone KL, Thomas RJ, Mignot E, Westover B, Clifford GD. [From sleep patterns to heart rhythm: Predicting atrial fibrillation from overnight polysomnograms](https://www.sciencedirect.com/science/article/abs/pii/S0022073624002292). J Electrocardiol. 2024 Sep-Oct;86:153759. [doi: 10.1016/j.jelectrocard.2024.153759](https://doi.org/10.1016/j.jelectrocard.2024.153759). [PMID: 39067281](https://pubmed.ncbi.nlm.nih.gov/39067281/).
 

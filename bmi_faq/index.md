@@ -102,12 +102,6 @@ The CSI PhD Program has several milestones to support the timely progress of stu
 ### Academic Integrity
 All students are expected to be familiar with and abide by the [LGS Honor Code](http://gs.emory.edu/handbook/honor-conduct-grievance/honor/index.html). Your instructors and advisor will have specific expectations. If you are in doubt about their expectations, then please ask them for clarification.
 
-## <a name="forms"></a>Forms
-- [Mutual advisor commitment form](https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=202b7cd1-7f52-48a7-a141-abf9e6e7cbc4&env=na3&acct=327f61f2-c84f-40ec-bc8d-ede26a28ddba&v=2)
-- [Qualifying exam form](csi_qualifying_exam_form.pdf)
-- [Candidacy application form](https://www.gs.emory.edu/academics/policies-progress/candidacy.html)
-- [Dissertation committee](https://www.gs.emory.edu/academics/policies-progress/dissertation.html)
-
 ## <a name="thesis"></a>Thesis and Dissertation
 
 ### Dissertation Template
