@@ -4,6 +4,8 @@ layout: default
 
 ## People
 
+My [publications](../publications) show many of my collaborations and collaborators at Emory and other institutions.
+
 ### Matthew Reyna
 
 Matthew Reyna (he/him/his) is an Assistant Professor in the [Department of Biomedical Informatics](https://med.emory.edu/departments/biomedical-informatics/) and the [Department of Pharmacology and Chemical Biology](https://med.emory.edu/departments/pharmacology-chemical-biology/) at [Emory University](https://www.emory.edu). He is the [Vice Chair for Education and Training](https://med.emory.edu/departments/biomedical-informatics/about/faculty-lab.html) in the [Department of Biomedical Informatics](https://med.emory.edu/departments/biomedical-informatics/) and a co-Director of Graduate Studies for the [Computer Science and Informatics graduate program](https://computerscience.emory.edu/graduate-phd/index.html).
